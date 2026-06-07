@@ -57,7 +57,7 @@ Do najczęściej obserwowanych trudności należą:
 
 Z tego względu wszelkie treści opracowywane z pomocą AI powinny być każdorazowo poddawane krytycznej analizie i starannej redakcji.
 
-## 6. Komunikacja i konsultacje
+## 4. Komunikacja i konsultacje
 
 W standardowym trybie realizacji pracy nie ma konieczności regularnego składania szczegółowych raportów z postępów. 
 Przyjmuje się, że student samodzielnie planuje i prowadzi kolejne etapy realizacji tematu.
@@ -71,7 +71,7 @@ Kontakt z promotorem lub opiekunem pracy jest wskazany przede wszystkim wtedy, g
 
 Taki model współpracy sprzyja samodzielności, a jednocześnie umożliwia uzyskanie wsparcia w momentach rzeczywiście wymagających konsultacji.
 
-## 7. Planowanie czasu realizacji
+## 5. Planowanie czasu realizacji
 
 Realizacja pracy dyplomowej wymaga odpowiedniego rozplanowania działań w czasie. 
 Odkładanie zasadniczej części zadań na końcowy etap prac zazwyczaj utrudnia przygotowanie dopracowanego i spójnego opracowania.
