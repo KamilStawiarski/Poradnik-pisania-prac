@@ -172,9 +172,45 @@ W tym miejscu opisujemy założenia projektowe. Samo sformułowanie celu pracy n
 
 #### Podrozdział 1.3 Podział pracy
 
-Ten podrozdział umieszczamy wyłacznie w przypadku pracy wieloosobowej. Umieszczamy tutaj informację o tym 
+Ten podrozdział umieszczamy wyłacznie w przypadku pracy wieloosobowej. Umieszczamy tutaj informację o tym jaką część pracy wykonała konkretna osoba. Teoretycznie można taki opis zrealizować w postaci listy, niemniej nie wygląda to zbyt dobrze i preferuje się wykonanie opisu w postaci zwartego tekstu (opisowo).
 
 #### Podrozdział 1.4 Streszczenie pracy
 
+W tym miejscu umieszczamy streszczenie pracy w postaci:
+"W rozdziale drugim przedstawiono ....",
+"Rozdział trzeci zawiera ...",
+"Uzyskane wyniki przedstawiono/opisano w rozdziale szóstym".
+
+### 6.6 Rozdział drugi: Część literaturowa
+
+Tytuł tego rozdziału zależy od tematu pracy i intencji autora. Nazwa "Część literaturowa" jest jedynie ogólnym określeniem intencji przyświęcającej temu rozdziałowi. Przykładowe tytuły: "Przegląd aplikacji realizujących wykonywanie rysunków przez roboty przemysłowe", "Przegląd algorytmów wyznaczania trajektorii robotów autonomicznych", "Historia powstania i struktura środowiska ROS". Zadaniem tego rozdziału jest przedstawienie aktualnej wiedzy lub rozwiązań technicznych w dziedzinie poruszanej przez dany temat pracy inżynierskiej. Znaczenie tego rozdziału można ująć również w ten sposób: "część literaturowa" ma pokazać nasze rozwiązanie na tle innych, aktualnych rozwiązań. Tzn. zanim zaczniemy przedstawiać opis naszego rozwiązania, pokazujemy jak do danego problemu podeszły inne zespoły, przedstawiamy inne możliwe rozwiązania danego problemu. Jeżeli temat jest bardziej teoretyczny niż konstrukcyjny, "część literaturowa" może zawierać powtórkę/uzupełnienie wiedzy teoretycznej, która jest niezbędna do prawidłowego zrozumienia rozwiązania podanego w naszej pracy (z punktu widzenia zakresu nauczania automatyka). Rozmiar części literaturowej powinien wynosić od kilku do kilkunastu stron. Jest to kwestia indywidualna, niemniej część literaturowa jest uzupełnieniem pracy a nie jej zasadniczą częścią. 
+
+### 6.7 Kolejne rozdziały pracy
+
+Liczba oraz struktura kolejnych rozdziałów pracy zależy od tematu pracy i inwencji autora. Jedynie trzeba zachowac wewnętrzną spójność pracy. O pracy można myśleć jak o pewnej opowieści, która ma swoją narrację: wstęp, rozwinięcie, zakończenie. Stosując analogię do literatury, praca nie powinna przypominać kryminału, w którym powoli rozwijane są kolejne wątki i całość dopiero łączy się w spójny opis w ostatnim rozdziale, kiedy bohater w końcu rozwiązuje wszystkie zagadki. W odniesieniu do pracy dyplomowej, należy tak ustawić kolejność rozdziałów, żeby wykluczyć (lub przynajmniej możliwie zminimalizować) konieczność odwoływania się do rozwiązań, które będą opisane w kolejnych rozdziałach lub podrozdziałach. Generalnie, unikamy odwoływania się do rysunków, wzorów i tabel, które pojawią się w dalszej części pracy. Nie zawsze da się tego uniknąć, niemniej na tyle na ile jest to możliwe należy trzymać się tej zasady. W miarę możliwości unikamy dalekich odwołań w obu kierunkach, przy czym odwołania do poprzednich rozdziałów są akceptowalne. 
+
+Przykładowy układ rozdziałów w pracy sprzętowej, polegającej na konstrukcji jakiegoś urządzenia (np robota mobilnego):
+1. Wstęp i cel pracy
+2. "część literaturowa"
+3. Konstrukcja mechaniczna
+4. Układ elektroniczny
+5. Algorytmy sterowania (w tym np wyprowadzenie modelu matematycznego obiektu)
+6. Oprogramowanie
+7. Testy/prezentacja uzyskanych wyników
+8. Podsumowanie
+
+Często opis algorytmów sterujących oraz oprogramowania umieszczany jest w jednym rozdziale. Przykładowy układ rozdziałów ma jedynie pokazać strukturę pracy. W zależności od tematu może być zupełnie inny. Tytuły poszczególnych rozdziałów ustalamy samodzielnie. Ostatni rozdział można nazwać "Podsumowanie" ale sa tez prace, w których został nazwany "Wyniki i dyskusja". Ostatni rozdział powinien zawierać krótkie podsumowanie osiągniętych rezultatów: wymienienie tego co udało się zrobić, czego nie udało się wykonać i dlaczego oraz ewentualne kierunki dalszego rozwoju projektu. 
+
+### 6.8 Część literaturowa (Bibliografia), Spis rysunków, Spis tabel. 
+
+Jeżeli praca jest pisana w TEX, spis treści, część literaturowa, spis rysunków i tabel tworzone są automatycznie. Dlatego też gorąco polecam pisanie pracy w TEX.
+Nieco dłuższego omówienia wymaga część literaturowa. Jest kilka sposobów (formatów) zapisu części literaturowej (bibliografia). Mniej jest ważne który z sposobów zapisu wybierzecie, ważne żeby cała część literaturowa była spójna (ten sam format zapisu). Jeżeli piszecie pracę w TEX, sposób generowania części literaturowej zostanie zdefiniowany przez plik konfiguracyjny. 
+W części literaturowej umieszczamy odniesienia do książek, artykułów naukowych, doktoratów, prac magisterskich, inżynierskich itp. W takim przypadku nie ma potrzeby umieszczania linku do strony z której ściągneliście daną pozycję literaturową. Opis takiej pozycji powninien zawierać autora lub autorów, tytuł, wydawcę, rok wydania, nazwę konferencji jeżeli jest to artykuł konferencyjny, ewentualnie zakres stron jeśli jest to pozycja zawierajaca zbiór artykułów a my odwołujemy się do jednego z nich. Jest to zestaw danych jednoznacznie identyfikujących dane źródło i nie potrzeba dodawać nic więcej.
+W przypadku gdy chcemy odwołać się do jakiegoś dokumentu umieszczonego na stronie internetowej (np dokumentacji technicznej, opracowania internetowego jakiegos tematu, artykułu interetowego - nierecenzowanego), podajemy: krótki opis informujący nas co zawiera link do którego się odwołujemy, link, datę dostępu. Jeśli chodzi o datę dostępu, najlepiej będzie przed złożeniem pracy w systemie sprawdzić czy wszystkie linki do których się odwołujemy są wciąż aktywne i zawierają odpowiednią treść a następnie wpisać datę złożenia pracy do systemu.
+
+Wszystkie materiały zewnętrzne do których się odwołujemy w pracy powinny posiadać odnośnik do źródła. W przypadku gdy chcemy skorzystać z zdjęcia lub rysunku ściągniętego z innej pracy lub strony internetowej, w opisie pod rysunkiem powinniśmy wstawić odniesienie do części literaturowej. Jeżeli jest to artykuł lub książka, nie ma problemu. Jeżeli jednak jedynym powodem podania w części literaturowej linku do jakiejść strony jest chęć skorzystania z zdjęcia umieszczonego na tej stronie, zamiast zaśmiecania części literaturowej niepotrzebnymi linkami internetowymi, lepszym pomysłem będzie umieszczenie w opisie rysunku przypisu dolnego, w którym umieścimy krótki opis i link do strony z której pobraliśmy zdjęcie.
+
+W części literaturowej umieszczamy tylko linki do stron bezpiecznych (czytający pracę może chcieć kliknąć link i sprawdzić materiały źródłowe) i wiarygodnych. Wiarygodnych pod względem wrwałości danego linku i treści tam umieszczonych jak również wiarygodności umieszczonych tam informacji. Dlatego też odwoływanie się w części literaturowej do takich źródeł jak wikipedia nie jest dobrze widziane. W wikipedii można znaleźć wiele prawdziwych informacji, niemniej jest to źródło w którym prawie każdy może napisać co chce. Pod danym hasłem jednego dnia może być jeden opis, drugiego możemy znaleźć tam coś zupełnie innego. Korzystając z wikipedii trzeba mieć na uwadzę konieczność weryfikacji umieszczonych tam informacji oraz krytycznego do nich podejścia.
 
 ## 7. Zbiór uwag edytorskich
+
