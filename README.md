@@ -104,6 +104,8 @@ Kontakt z promotorem lub opiekunem pracy jest wskazany przede wszystkim wtedy, g
 
 Taki model współpracy sprzyja samodzielności, a jednocześnie umożliwia uzyskanie wsparcia w momentach rzeczywiście wymagających konsultacji.
 
+Przesyłamy pracę do weryfikacji po dokładnym przeczytaniu pracy i upewnieniu się, że nie znaleźliśmy błędów językowych. Nie traktujemy opiekuna jako korektora błędów językowych. Zdaża się, że do korekty trafiają prace z tak dużą liczbą pomyłek językowych, wskazujacych jednoznacznie na wysłanie pracy bez choćby pobieżnego sprawdzenia poprawności językowej - praca napisana "na kolanie" i szybko wysłana do opiekuna. Praca zawierająca dużą liczbę błedów językowych jest sprawdzana znacznie dłużej niż praca gruntownie sprawdzona przed wysłaniem. Szybkie wysłanie pracy nie gwarantuje szybszego zakończenia procesu redakcyjnego, jednocześnie blokuje czas który opiekun może poświęcić na sprawdzenie prac innych studentów.
+
 ## 5. Planowanie czasu realizacji
 
 Realizacja pracy dyplomowej wymaga odpowiedniego rozplanowania działań w czasie. 
