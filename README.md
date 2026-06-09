@@ -218,6 +218,8 @@ W części literaturowej umieszczamy tylko linki do stron bezpiecznych (czytają
 
 Praca dyplomowa jest dokumentem formalnym (pisanym). Dlatego język pracy nie powinien przypominać nieformalnego języka mówionego. Nie chodzi tylko o nieużywanie wulgaryzmów itp ale również fakt, że język mówiony (swobodna rozmowa) jest pełen skrótów i niedomówień. Język pracy powinien być w miarę możliwości czysty językowo i jednocześnie jednoznaczny (ścisły). Unikamy języka poetyckiego. 
 
+Przykład zdania niejednoznacznego: "Żmija ukąsiła Kleopatrę i umarła". Nie wiemy czy umarła Żmija czy Kleopatra.
+
 W pracy można używać zdań wielokrotnie złożonych, niemniej jeśli ktoś ma problemy z prawidłowym złożeniem zdań wielokrotnie złożonych, lepiej jest stosować zdania proste. Zdania wielokrotnie złożone mają to do siebie, że często zrozumienie pierwszej części zdania wymaga przeczytania całości a następnie poskładania tego w spójną całość. Jeżeli zdanie jest długie na wiele, wiele linijek, zrozumienie takiego zdania wymaga pewnego wysiłku intelektualnego (nawet jeśli zdanie jest prawidłowo zbudowane). Jeśli zdanie jest wadliwe, nawet kilkukrotne przeczytanie zdania nie gwarantuje zrozumienia tego co autor miał na myśli. Pamiętajmy, że naszym celem jest to, żebym recenzent z przyjemnością przeczytął naszą pracę a nie żeby go intelektualnie zamęczyć. Zrozumienie części merytorycznej pracy (jeżeli jest to praca teoretyczna) jest już wystarczającym wyzwaniem intelektualnym, nie dodawajmy do tego kolejnych zagadek logicznych w postaci odkodowywania zdań złożonych.
 
 W pracy staramy się nie używać zdań w pierwszej osobie. Zdania piszemy najczęściej w formie bezosobowej. Np. zamiast pisać "Wydrukowaliśmy obudowę robota na drukarce 3D", lepiej napisać "Obudowa robota została wykonana w technologi ruku 3D". Jeżeli chcemy zaznaczyć jakąś chronologię zdarzeń, używamy czasu przeszłego. Jednak w zdecydowanej większości praca będzie pisana w czasie teraźniejszym. Jeżeli opisujemy jakieś prawa przyrody, algorytm, pewne rozwiązania itp, odpowiednim czasem jest czas teraźniejszy. Dlaczego? Prawo grawitacji jest prawdziwe w przeszłości, teraźniejszości i przyszłości (jest poza czasem). Jeżeli opisuję swój algorytm (czyli rozwiązanie pewnego problemu), będzie one prawidłowe (jeżeli jest poprawne) nie wczoraj, nie jutro ale zawsze. 
@@ -251,6 +253,6 @@ liczba używamy do wielkości policzalnych np duża liczba wejść sterownika, d
 #### stwarzać
 Słowo "stwarzać" odnosi się do uczynienia czegoś z niczego. Dlatego nie bez powodu odnosi się do Boga, który "Stworzył świat z niczego". Człowiek generalnie nie "stwarza". Można podać parę przykładów, w których słowo "stwarzać" moglibyśmy odnieść do człowieka, ale generalnie słowo to jest nagminnie naduzywane. Człowiek buduje, wytwarza, przetwarza, konstruuje, pisze (program komputerowy), wymyśla (idee).
 
-#### Ale, a więc, żeby
-Generalnie nie powinno się rozpoczynać zdania od "Ale", "A więc", "Żeby".
-Przykład: Zdanie "Żeby zasilić urządzenie należy podłączyć wtyczkę do gniazdka" należałoby zastąpić zdaniem "W celu zasilenia urządzenia należy podłączyć wtyczkę do gniazdka".
+#### Aby itp
+Generalnie nie powinno się rozpoczynać zdania od "Aby".
+Przykład: Zdanie "Aby zasilić urządzenie należy podłączyć wtyczkę do gniazdka" należałoby zastąpić zdaniem "W celu zasilenia urządzenia należy podłączyć wtyczkę do gniazdka".
