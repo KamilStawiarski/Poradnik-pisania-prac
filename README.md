@@ -214,15 +214,29 @@ W części literaturowej umieszczamy tylko linki do stron bezpiecznych (czytają
 
 ## 7. Zbiór uwag edytorskich
 
-### 7.1 Symbole
+### 7.1 Język pracy
+
+Praca dyplomowa jest dokumentem formalnym (pisanym). Dlatego język pracy nie powinien przypominać nieformalnego języka mówionego. Nie chodzi tylko o nieużywanie wulgaryzmów itp ale również fakt, że język mówiony (swobodna rozmowa) jest pełen skrótów i niedomówień. Język pracy powinien być w miarę możliwości czysty językowo i jednocześnie jednoznaczny (ścisły). Unikamy języka poetyckiego. 
+
+W pracy można używać zdań wielokrotnie złożonych, niemniej jeśli ktoś ma problemy z prawidłowym złożeniem zdań wielokrotnie złożonych, lepiej jest stosować zdania proste. Zdania wielokrotnie złożone mają to do siebie, że często zrozumienie pierwszej części zdania wymaga przeczytania całości a następnie poskładania tego w spójną całość. Jeżeli zdanie jest długie na wiele, wiele linijek, zrozumienie takiego zdania wymaga pewnego wysiłku intelektualnego (nawet jeśli zdanie jest prawidłowo zbudowane). Jeśli zdanie jest wadliwe, nawet kilkukrotne przeczytanie zdania nie gwarantuje zrozumienia tego co autor miał na myśli. Pamiętajmy, że naszym celem jest to, żebym recenzent z przyjemnością przeczytął naszą pracę a nie żeby go intelektualnie zamęczyć. Zrozumienie części merytorycznej pracy (jeżeli jest to praca teoretyczna) jest już wystarczającym wyzwaniem intelektualnym, nie dodawajmy do tego kolejnych zagadek logicznych w postaci odkodowywania zdań złożonych.
+
+W pracy staramy się nie używać zdań w pierwszej osobie. Zdania piszemy najczęściej w formie bezosobowej. Np. zamiast pisać "Wydrukowaliśmy obudowę robota na drukarce 3D", lepiej napisać "Obudowa robota została wykonana w technologi ruku 3D". Jeżeli chcemy zaznaczyć jakąś chronologię zdarzeń, używamy czasu przeszłego. Jednak w zdecydowanej większości praca będzie pisana w czasie teraźniejszym. Jeżeli opisujemy jakieś prawa przyrody, algorytm, pewne rozwiązania itp, odpowiednim czasem jest czas teraźniejszy. Dlaczego? Prawo grawitacji jest prawdziwe w przeszłości, teraźniejszości i przyszłości (jest poza czasem). Jeżeli opisuję swój algorytm (czyli rozwiązanie pewnego problemu), będzie one prawidłowe (jeżeli jest poprawne) nie wczoraj, nie jutro ale zawsze. 
+
+Jeżeli będziecie pisać pracę w trybie bezosobowym, nalezy zrobić to w taki sposób, żeby jednak zaznaczyć co faktycznie było wykonane przez was. Jaki zakres pracy jest waszym dziełem a jaka część rozwiązania wynika w zastosowania gotowych elementów - czy to w postaci użycia gotowej biblioteki czy gotowego rozwiązania sprzętowego.
+Miałem przypadki świetnej pracy inżynierskiej, w której student tak bardzo zapędził się w używaniu trybu bezosobowego, że pomimo wykonania ogromnej ilości pracy trudno było doczytać się informacji co właściwie było wykonane przez studenta a co nie. 
+
+### 7.2 Symbole
 
 We wzorach matematycznych nie używamy nazw pochodzących z kodu programu. Jeżeli we wzorze pojawi się nazwa "indeks", z matematycznego punktu widzenia jest to iloczyn elementów "i", "n", "d", "e", "k" i "s". Dlatego też w pracy wykorzystujemy jedynie symbole jednoelementowe. Jeżeli dany symbol wykorzystamy w jednym miejscu do oznaczenia jakiejś wielkości, nie możemy wykorzystać go w innym miejscu do oznaczenia innej wielkości. Spójność pracy polega na tym, że w obrębie pracy te same symbole nie mogą oznaczać różnych rzeczy. Jeżeli jednak chcemy użyć głównego symbolu do różnych rzeczy, używamy indeksów dolnych i górnych (o ile nie będą się myliły z operacjami podniesienia liczby do danej potęgi). Dla przykładu, punkt na obrazie możemy oznaczyć symbolem "O", zaś współrzędne punktu na obrazie symbolami "O_x" i "O_y". Symbole "O_x" i "O_y" są różnymi symbolami, pomimo, że główny element "O" jest ten sam. Jeżeli chcemy wykorzystać symbol "O" do przedstawienia współrzędnych punktu "O" w różnych układach współrzędnych, możemy wykorzystać indeks górny (lewy) do określenia w jakim układzie współrzędnych wyrażone są składowe położenia punku.
 
 #Bardzo ważna uwaga !!!
 Poszczególne symbole, umieszczone w głównym tekście pracy, we wzorach, na rysunkach i w tabelach powinny wyglądać identycznie. To znaczy, użyta czcionka, pochylenie lub jego brak, rozmiar czcionki powinny być identyczne. W przypadku pracy pisanej w TEX nie ma z tym większego probelmu, gdyż TEX pozwala "pisać" na rysunku w dokładnie taki sam sposób jak w treści pracy czy w równaniach (symbol czy wzór matematyczny definiowany jest w ten sam sposób). Problem pojawia się, gdy pracę piszemy w Wordzie lub innym podobnym edytorze. W takim przypadku rysunki powstają najczęściej w innym programie i wraz z opisami są importowane do końcowego pliku. W takim wypadku, czcionka w programie w którym powstają rysunki i czcionka w edytorze w którym jest pisana praca nie są identyczne. Należy wtedy postarać się możliwie najlepiej dopasować do siebie obie używane czcionki.
 
-### 7.2 Przecinki
+### 7.3 Przecinki
 
 Praca dyplomowna najczęściej pisana jest w języku polskim. Przypomina się, że w języku polskim, do rozdzielenia części całkowitej i ułamkowej (w zapisie dziesiętnym) używa się przecinków a nie kropek. Dlatego też w całej pracy należy bezwzględnie używac przecinków zamiast kropek. Jeżeli mamy w nawiasie dwie liczby ułamkowe (np. współrzędne punktu w układzie 2D), poszczególne pozycje rozdzielamy średnikiem. Powyższą zasadę stosujemy również w przypadku prezentacji.
 
-### 7.3 
+### 7.4 Wstawki angielskojęzyczne
+
+Ponieważ praca jest pisana w języku polskim, unikamy używania wstawek z innych języków (w naszych warunkach największym problemem jest stawianie słów z języka angielskiego). Dbamy o czystość języka polskiego. Oczywiście zasada ta nie obowiązuje w przypadku braku odpowiedników słów w języku polskim lub w przypadku, gdy używanie określeń polskojęzycznych jest kłopotliwe (brzmi nienajlepiej lub w danym przypadku określenie angielskojęzyczne stało się określeniem wyraźnie dominującym i paradoksalnie brzmi w języku polskim bardziej naturalnie). Uwaga ta odnosi się również do języka prezentacji.
+
