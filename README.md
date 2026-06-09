@@ -240,3 +240,17 @@ Praca dyplomowna najczęściej pisana jest w języku polskim. Przypomina się, �
 
 Ponieważ praca jest pisana w języku polskim, unikamy używania wstawek z innych języków (w naszych warunkach największym problemem jest stawianie słów z języka angielskiego). Dbamy o czystość języka polskiego. Oczywiście zasada ta nie obowiązuje w przypadku braku odpowiedników słów w języku polskim lub w przypadku, gdy używanie określeń polskojęzycznych jest kłopotliwe (brzmi nienajlepiej lub w danym przypadku określenie angielskojęzyczne stało się określeniem wyraźnie dominującym i paradoksalnie brzmi w języku polskim bardziej naturalnie). Uwaga ta odnosi się również do języka prezentacji.
 
+### 7.5 Różne drobne uwagi
+
+Przy obecnym niechlujstwie językowym pewne błedy językowe są zupełnie ignorowane lub wręcz językoznawcy z zniechęceniem machają ręką i mówią, można już tak mówić i pisać. Ponieważ jednak praca dyplomowa jest niejako pewną wizytówką oraz wymagany jest język formalny, warto poniższe zasady stosować.
+
+# ilość kontra liczba
+ilość używamy do wielkości niepoliczalnych, np duża ilość wody.
+liczba używamy do wielkości policzalnych np duża liczba wejść sterownika, duża liczba punktów.
+
+# stwarzać
+Słowo "stwarzać" odnosi się do uczynienia czegoś z niczego. Dlatego nie bez powodu odnosi się do Boga, który "Stworzył świat z niczego". Człowiek generalnie nie "stwarza". Można podać parę przykładów, w których słowo "stwarzać" moglibyśmy odnieść do człowieka, ale generalnie słowo to jest nagminnie naduzywane. Człowiek buduje, wytwarza, przetwarza, konstruuje, pisze (program komputerowy), wymyśla (idee).
+
+# Ale, a więc, żeby
+Generalnie nie powinno się rozpoczynać zdania od "Ale", "A więc", "Żeby".
+Przykład: Zdanie "Żeby zasilić urządzenie należy podłączyć wtyczkę do gniazdka" należałoby zastąpić zdaniem "W celu zasilenia urządzenia należy podłączyć wtyczkę do gniazdka".
