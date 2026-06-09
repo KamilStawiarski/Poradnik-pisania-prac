@@ -120,6 +120,14 @@ Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku rpac i
 
 ## 6. Proponowana struktura pracy
 
+Proponowana kolejność pisania pracy (jest to tylko luźna propozycja):
+1. Rozdział 2 - część literaturowa
+2. Rozdział 3, 4, 5, ... - merytoryczna część pracy
+3. Rozdział "wyniki"
+5. Rozdział 1 - wstęp i cel pracy
+6. Rozdział "Podsumowanie"
+7. Abstrakt
+
 ### 6.1 Strona tytułowa
 
 Praca inżynierska rozpoczyna się od strony tytułowej, którą można pobrać ze strony ....
@@ -147,5 +155,27 @@ Spis treści powinien być wyrównany do prawej strony (numeracja stron). Po lew
 Za spisem treści często umieszczamy listę symboli. Powinna być ona wyrównana i estetyczna. Każdą pozycję opisujemy krótko ale wyczerpująco. Jeżeli dany symbol jest związany z wielkością fizyczną, powinniśmy podać jego jednostkę. Ideą stojącą za tworzeniem listy symboli jest ułatwienie czytania pracy. Tzn. jeżeli dany symbol wykorzystywany jest w kilku miejscach pracy, warto wstawić go do listy symboli. Np. wprowadzamy symbol X w rozdziale 3. Następnie w rozdziale 5 odwołujemy się do symbolu X. Nie chcemy go ponownie definiować. Jeżeli dany symbol znajduje się w liście symboli, czytelnik nie musi szukać miejsca gdzie symbol został pierwszy raz wprowadzony, lecz zagląda do listy i dowiaduje się co dany symbol oznacza. Dlatego też, jeżeli dany symbol jest wykorzystywany lokalnie (np. występuje w jednym równaniu lub podrozdziale i już nigdzie indziej się do niego nie odwołujemy), nie umieszczamy go w liście symboli. W zależności od charakteru pracy, oddzielna lista symboli może nie być konieczna. Może się też zdarzyć tak, że wprowadzimy oddzielną listę symboli (matematycznych) oraz listę skrótów. 
 
 ### 6.5 Rozdział pierwszy: Wstęp i cel pracy
+
+Jest to rozdział występujący we wszystkich pracach inżynierskich i magisterskich, posiadający ściśle ustaloną strukturę. Rozdział ten najlepiej napisać pod koniec pisania pracy. Posiada on następującą strukturę:
+
+Tytuł: "Wstęp i cel pracy"
+
+< Wprowadzenie >
+
+1.1 Cel pracy
+
+< Sformułowanie celu pracy >
+
+1.2 Założenia projektowe
+
+< Sformułowanie założeń projektowych >
+
+1.3 Podział pracy
+
+< Przedstawienie podziału pracy >
+
+1.4 Streszczenie pracy
+
+< Streszczenie pracy >
 
 ## 7. Zbiór uwag edytorskich
