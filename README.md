@@ -160,11 +160,19 @@ Jest to rozdział występujący we wszystkich pracach inżynierskich i magisters
 
 #### Wprowadzenie
 
+Jest to krótkie nawiązanie do tematu pracy. W zależności od tematu, wprowadzenie może wyglądać odmiennie. Można się tu odnieść do aktualnych trendów w danej dziedzinie nauki lub techniki. Można odnieść się do danych historycznych. Czasem może pojawić się jakaś definicja i rozszerzenie tej definicji. Może być to opsanie przyczyny dla której dany temat pracy został sformułowany, jego kontekst społeczny, użytkowy, badawczy. Generalnie jest to miejsce w którym przygotowujemy czytelnika do zrozumienia celu pracy, który jest sformułowany w kolejnym podrozdziale. Np. jeżeli w sformułowaniu celu pracy występuje określenie techniczne, które może nie być zrozumiałe, warto we wstępie naświetlić wątek techniczny lub naukowy pozwalający później zrozumieć czytelnikowi o co chodzi w celu pracy. Ten fragment najczęściej ma długość od pół do jednej strony. W żadkich, uzasadnionych przypadkach, poświęcamy więcej miejsca na wprowadzenie (np 1,5 do 2 stron). Generalnie w tej części pracy nie umieszczamy zdjęć, rysunków i wykresów.
+
 #### Podrozdział 1.1 Cel pracy
+
+Sformułowanie celu pracy. Krótki, kilkozdaniowy akapit.
 
 #### Podrozdział 1.2 Założenia projektowe
 
+W tym miejscu opisujemy założenia projektowe. Samo sformułowanie celu pracy najczęściej nie zajmuje dużo miejsca. Dlatego też, czasami oba podrozdziały łączy się w jeden. Tzn. Nie mamy oddzielnego podrozdziału "Założenia projektowe", lecz ta część jest kolejnym akapitem podrozdziału "Cel pracy". W założeniach projektowych podajemy przyjęte założenia sformułowane podczas określania celu pracy. Przykład. Jeżeli opiekun zgłosił temat rysowania portretu człowieka za pomocę robota przemysłowego, założeniem pracy może być wykorzystanie robota Kawasaki będącego częścią wyposażenia laboratorium. Jest to założenie projektowe narzucone przez opiekuna. Innym założeniem może być wykorzystanie minikomputera <konkretny model> w konstrukcji autonomicznego pojazdu mobilnego, o ile ten wymóg jest wprowadzony od samego początku przez opiekuna lub studenta zgłaszającego temat. Założeniem projektowym może być narzucony algorytm. Np Tematem pracy może być powstanie aplikacji generującej trasę robota mobilnego a założeniem projektowym może być narzucona metoda: np sztucznego potęcjału lub algorytm A*. Jeżeli jednak wykorzystanie danego sprzętu lub algorytmu wynikają z późniejszych decyzji projektowych, w żadnym wypadku nie umieszczamy w tym miejscu informacji o tym, że wykorzystano dany model sprzętu lub dane rozwiązanie algorytmiczne. 
+
 #### Podrozdział 1.3 Podział pracy
+
+Ten podrozdział umieszczamy wyłacznie w przypadku pracy wieloosobowej. Umieszczamy tutaj informację o tym 
 
 #### Podrozdział 1.4 Streszczenie pracy
 
