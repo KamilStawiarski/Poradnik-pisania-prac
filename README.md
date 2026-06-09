@@ -116,8 +116,27 @@ Z tego względu zaleca się, aby możliwie wcześnie rozpocząć działania zwi�
 - gromadzeniem materiałów źródłowych,
 - przygotowywaniem kolejnych fragmentów tekstu pracy.
 
+Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku rpac inżynierskich) na wykonanie przynajmniej części zadań, które mogą odciążyć późniejsze, bardziej intensywne etapy realizacji projektu.
+
 ## 6. Proponowana struktura pracy
 
-## 7. Zbiór uwag edytorskich
+### 6.1 Strona tytułowa
 
-Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku rpac inżynierskich) na wykonanie przynajmniej części zadań, które mogą odciążyć późniejsze, bardziej intensywne etapy realizacji projektu.
+Praca inżynierska rozpoczyna się od strony tytułowej, którą można pobrać ze strony ....
+Na stronie tytułowej używamy określenia "Projekt dyplomowy inżynierski". (do sprawdzenia)
+
+### 6.2 Abstrakt
+Abstrakt jest szczególnym streszczeniem pracy, który informuje czytelnika o czym jest praca. Założeniem abstraktu jest przedstawienie czytelnikowi informacji o tym, co znajdzie w pracy bez jej dokładnego czytania. Dzięki abstraktom (np w artykułach naukowych) oszczędzamy czas wybierajac do czytania jedynie artykuły zawierające interesujące nas informacje. 
+
+W abstrakcie nie umieszczamy informacji o zawartości poszczególnych rozdziałów pracy (nie jest to spis treści) jak również nie musimy umieszczać szczegółowych informacji technicznych dotyczących budowanego urządzenia. 
+
+Przykład. Załóżmy, że w ramach projektu inżynierskiego budujemy robota mobilnego wyposażonego w kamerę i lidar, którego zadaniem będzie samodzielna aksploracja terenu i zbudowanie mapy otoczenia.
+
+W abstrakcie nie umieszczamy następujących sformułowań:
+"W rozdziale drugim opisano ...", "Rozdział trzeci zawiera ..."
+
+W abstrakcie nie umiszczamy informacji nadmiernie szczegółowych, dotyczących konstrukcji urządzenia lub użytego oprogramowania. Wyjątkiem jest sytuacja, gdy taka informacja jest kluczowa z punktu widzenia naszego tematu. W naszym przykładzie budowy robota mobilnego nie musimy w abstrakcie podawać informacji dotyczących użytego mikrokomputera, typy baterii, modelu lidar-u itp. 
+
+
+
+## 7. Zbiór uwag edytorskich
