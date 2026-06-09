@@ -126,6 +126,7 @@ Praca inżynierska rozpoczyna się od strony tytułowej, którą można pobrać 
 Na stronie tytułowej używamy określenia "Projekt dyplomowy inżynierski". (do sprawdzenia)
 
 ### 6.2 Abstrakt
+
 Abstrakt jest szczególnym streszczeniem pracy, który informuje czytelnika o czym jest praca. Założeniem abstraktu jest przedstawienie czytelnikowi informacji o tym, co znajdzie w pracy bez jej dokładnego czytania. Dzięki abstraktom (np w artykułach naukowych) oszczędzamy czas wybierajac do czytania jedynie artykuły zawierające interesujące nas informacje. 
 
 W abstrakcie nie umieszczamy informacji o zawartości poszczególnych rozdziałów pracy (nie jest to spis treści) jak również nie musimy umieszczać szczegółowych informacji technicznych dotyczących budowanego urządzenia. 
@@ -137,6 +138,14 @@ W abstrakcie nie umieszczamy następujących sformułowań:
 
 W abstrakcie nie umiszczamy informacji nadmiernie szczegółowych, dotyczących konstrukcji urządzenia lub użytego oprogramowania. Wyjątkiem jest sytuacja, gdy taka informacja jest kluczowa z punktu widzenia naszego tematu. W naszym przykładzie budowy robota mobilnego nie musimy w abstrakcie podawać informacji dotyczących użytego mikrokomputera, typy baterii, modelu lidar-u itp. 
 
+### 6.3 Spis treści
 
+Spis treści powinien być wyrównany do prawej strony (numeracja stron). Po lewej stronie powinny być wcięcia związane z numerami stron rozdziałów oraz podrozdziałów. Najczęściej spis treści generowany jest automatycznie (np w TEX) i nie powinno byc z nim dużo problemów. Należy unikać zbyt długich tytułów rozdziałów i podrozdziałów. Unikamy nadmiernej fragmentyzacji pracy. Prace inżynierski nie są zbyt obszerne objętościowo. Najczęściej posiadają od 50 do 80 stron. W przypadku nadmiernej fragmentyzacji (wiele podrozdziałów drugiego poziomu) uzyskujemy w spisie treści kilka pozycji o tym samym numerze strony. Wynika to stąd, ża na jednej stronie potrafi pojawić się kilka podrozdziałów. Krótko mówiąc, nie zakładamy nowego podrozdziału dla jednego krótkiego akapitu. Rekordziści potrafili tworzyć podrozdział składający się z jednozdaniowego akapitu. Myślę, że dobrze będzie przyjąć, że jeden podrozdział nie powinien być krótszy niż jedna strona. 
+
+### 6.4 Lista symboli
+
+Za spisem treści często umieszczamy listę symboli. Powinna być ona wyrównana i estetyczna. Każdą pozycję opisujemy krótko ale wyczerpująco. Jeżeli dany symbol jest związany z wielkością fizyczną, powinniśmy podać jego jednostkę. Ideą stojącą za tworzeniem listy symboli jest ułatwienie czytania pracy. Tzn. jeżeli dany symbol wykorzystywany jest w kilku miejscach pracy, warto wstawić go do listy symboli. Np. wprowadzamy symbol X w rozdziale 3. Następnie w rozdziale 5 odwołujemy się do symbolu X. Nie chcemy go ponownie definiować. Jeżeli dany symbol znajduje się w liście symboli, czytelnik nie musi szukać miejsca gdzie symbol został pierwszy raz wprowadzony, lecz zagląda do listy i dowiaduje się co dany symbol oznacza. Dlatego też, jeżeli dany symbol jest wykorzystywany lokalnie (np. występuje w jednym równaniu lub podrozdziale i już nigdzie indziej się do niego nie odwołujemy), nie umieszczamy go w liście symboli. W zależności od charakteru pracy, oddzielna lista symboli może nie być konieczna. Może się też zdarzyć tak, że wprowadzimy oddzielną listę symboli (matematycznych) oraz listę skrótów. 
+
+### 6.5 Rozdział pierwszy: Wstęp i cel pracy
 
 ## 7. Zbiór uwag edytorskich
