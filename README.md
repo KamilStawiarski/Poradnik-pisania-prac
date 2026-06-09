@@ -158,24 +158,15 @@ Za spisem treści często umieszczamy listę symboli. Powinna być ona wyrównan
 
 Jest to rozdział występujący we wszystkich pracach inżynierskich i magisterskich, posiadający ściśle ustaloną strukturę. Rozdział ten najlepiej napisać pod koniec pisania pracy. Posiada on następującą strukturę:
 
-Tytuł: "Wstęp i cel pracy"
+#### Wprowadzenie
 
-< Wprowadzenie >
+#### Podrozdział 1.1 Cel pracy
 
-1.1 Cel pracy
+#### Podrozdział 1.2 Założenia projektowe
 
-< Sformułowanie celu pracy >
+#### Podrozdział 1.3 Podział pracy
 
-1.2 Założenia projektowe
+#### Podrozdział 1.4 Streszczenie pracy
 
-< Sformułowanie założeń projektowych >
-
-1.3 Podział pracy
-
-< Przedstawienie podziału pracy >
-
-1.4 Streszczenie pracy
-
-< Streszczenie pracy >
 
 ## 7. Zbiór uwag edytorskich
