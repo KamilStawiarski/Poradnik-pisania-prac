@@ -1,6 +1,6 @@
 # Wytyczne dotyczące realizacji prac inżynierskich i magisterskich
 
-Niniejszy dokument porządkuje podstawowe wymagania organizacyjne oraz najważniejsze zalecenia związane z przygotowaniem pracy dyplomowej. 
+Niniejszy dokument porządkuje podstawowe wymagania organizacyjne oraz najważniejsze zalecenia związane z przygotowaniem pracy dyplomowej.  
 Ma on charakter ogólny i może stanowić punkt odniesienia zarówno na etapie planowania pracy, jak i podczas jej późniejszej realizacji.
 
 ## 1. Zakres oczekiwań po 6./2. semestrze
@@ -13,7 +13,7 @@ W szczególności oczekuje się przygotowania następujących elementów:
 - wstępu,
 - krótkiej informacji o postępach prac.
 
-Informacja o postępach nie musi mieć rozbudowanej formy. 
+Informacja o postępach nie musi mieć rozbudowanej formy.  
 Wystarczający jest zwięzły opis aktualnego etapu realizacji projektu, ze wskazaniem, które elementy zostały już wykonane, a które pozostają na dalszym etapie opracowania.
 
 ## 2. Zasady przygotowywania tekstu pracy
@@ -28,71 +28,61 @@ Tekst pracy powinien być:
 - oparty na poprawnie dobranych źródłach,
 - przygotowany zgodnie z zasadami cytowania i odwołań.
 
-Każdy fragment pracy powinien pełnić określoną funkcję merytoryczną. 
+Każdy fragment pracy powinien pełnić określoną funkcję merytoryczną.  
 Należy unikać nadmiernego rozbudowywania opisów, powtarzania tych samych informacji oraz wprowadzania treści, które nie wnoszą istotnej wartości do wywodu.
 
 ## 3. Korzystanie z narzędzi AI
 
-Zakłada się samodzielną redakcję treści pracy przy minimalnym poziomie lub bez użycia narzędzi sztucznej inteligencji.
-Jeżeli studenci chcą wykorzystać narzędzia sztucznej inteligecji, należy w tej kwesti skontaktować się z opiekunem pracy w celu ustalenia zakresu jej stosowania. Podejście poszczególnych opiekunów do tej sprawy może się znacząco różnić, dlatego indywidualny kontakt studentów z opiekunem jest konieczny.
+> **Student ponosi pełną odpowiedzialność za poprawność merytoryczną tekstu, niezależnie od użytych narzędzi.**
 
-Komentarz: W dokumencie ogólnym przyjąłbym zapis, że domyślnie nie ma zezwolenia na używanie narzędzi sztucznej inteligencji i to zezwolenie będzie indywidualnie przydzielane przez opiekunów (zakres stosowania). Sam udzielam swoim studentom ograniczonego pozwolenia na stosowanie AI. 
-Dobrze by było uczulić studentów na to, że jak na koniec składają deklarację w swojej pracy, umieścili w niej informację o zakresie korzystania z AI. 
-Do tej pory spotykałem się jedynie z informacją, że podczas pisania pracy korzystano z narzędzi AI - i tylko tyle. I co mam z taką informacją zrobić?
-Przyjąć, że praca zostałą wygenerowana w całości przez AI i wyrzucić ją do kosza czy np agent AI sprawdził jedynie czy przecinki są we właściwym miejscu?
+Domyślnie zakłada się samodzielną redakcję treści pracy, przy minimalnym poziomie lub bez użycia narzędzi sztucznej inteligencji.  
+W przypadku planowanego wykorzystania narzędzi sztucznej inteligencji należy skontaktować się z opiekunem pracy w celu ustalenia dopuszczalnego zakresu ich stosowania. Podejście poszczególnych opiekunów może się znacząco różnić, dlatego indywidualne ustalenia są konieczne.
 
-Generowanie pełnych zdań lub akapitów bezpośrednio za pomocą narzędzi sztucznej inteligencji jest niedopuszczalne.
-Niemniej w pewnym zakresie możliwe jest wykorzystanie narzędzi sztucznej inteligencji w charakterze wsparcie w pracy nad tekstem.
+Generowanie pełnych zdań lub akapitów bezpośrednio za pomocą narzędzi AI jest niedopuszczalne.  
+W pewnym zakresie możliwe jest natomiast wykorzystanie tych narzędzi jako wsparcia w pracy nad tekstem. Ich użycie powinno mieć charakter pomocniczy i nie może zastępować samodzielnego opracowania treści.
 
-<<, zwłaszcza w zakresie korekty językowej, redakcji stylistycznej lub porządkowania wybranych fragmentów.>>
-Tych sformułowań bym nie umieszczał, gdyż korektę językową (ortografia) realizuje się bez AI, "redakcja stylistyczna" jest bardzo blisko "generowania tekstu" bezpośrednio przez AI. Porządkowaniem tekstu człowiek inteligentny powinien sobie poradzić bez asystenta AI.
+W przypadku korzystania z narzędzi AI należy:
 
-Ich wykorzystanie powinno jednak mieć charakter pomocniczy, a nie zastępować samodzielnego opracowania treści.
-
-W przypadku korzystania z takich narzędzi należy:
 - zachować pełną kontrolę nad merytoryczną zawartością tekstu,
 - zweryfikować poprawność wszystkich informacji,
 - wskazać, które fragmenty pracy były opracowywane z wykorzystaniem AI, jeżeli wymagają tego obowiązujące zasady wydziałowe lub uczelniane.
 
-Nie należy powierzać narzędziom AI tworzenia całych rozdziałów lub całości pracy. 
+> **Uwaga**  
+> Po złożeniu pracy w systemie (np. moja.pg) należy wymienić wszystkie sekcje, w których korzystano z AI, oraz opisać stopień ingerencji narzędzia.
+
+Nie należy powierzać narzędziom AI tworzenia całych rozdziałów lub całości pracy.  
 Doświadczenie pokazuje, że teksty generowane automatycznie bardzo często wymagają gruntownej przeróbki, a ich jakość bywa niewystarczająca z punktu widzenia standardów pracy dyplomowej.
 
-Komentarz:
-Myślę, że bardziej pomocne byłoby wypisanie listy dozwolonych operacji jakie możemy wykonać przy wykorzystaniu narzędzi sztucznej inteligencji niż podawania ogólnego zezwolenia. W takim przypadku opiekun będzie mógł zaakceptować wszystkie punkty z takiej listy lub część z nich. Zezwolenie ogólne jest zaproszeniem do nadużywania narzędzi AI.
+> **Przykłady użycia AI**  
+> ❌ generowanie całych porcji tekstu (akapitów, rozdziałów)  
+> ❌ generowanie cytowań i opisów bibliograficznych  
+> ❌ generowanie grafik i ilustracji do pracy  
+> ✅ korekta stylistyczna i gramatyczna z kontrolą merytoryczności tekstu (np. wklejenie własnego tekstu z prośbą o wskazanie potencjalnych poprawek, krytyczna analiza sugerowanych zmian i ręczne wdrożenie)  
+> ✅ poszukiwanie potencjalnych źródeł cytowań (po wskazaniu przez AI powiązanego artykułu należy samodzielnie odnaleźć go w wiarygodnym serwisie, np. IEEE, zapoznać się z treścią i dopiero wtedy dodać cytowanie na podstawie oryginalnego źródła)  
+> ✅ wskazywanie niespójności w numeracji i odwołaniach oraz ręczna korekta po przeanalizowaniu sugestii  
+> ✅ w przypadku korzystania z plików `.tex` - generowanie szablonów tabel, ustawień pozycjonowania grafik, elementów składni LaTeX-a.
 
-Przykładowe punkty:
-1. Przeszukiwanie literatury - faktycznie trudno samodzielnie znaleźć i przejrzeć setki artykułów w danym temacie i wybrac odpowiednie.
-   Oczywiście krytyczna weryfikacja znalezionych rozwiązań jest konieczna
-2. Korekta gramatyczna - np. sprawdzenie poprawności umieszczenia przecinka (lepiej dokładnie określić o jakie operacje nam chodzi, gdyż samo hasło 'korekta gramatyczna' może równie dobrze oznaczać gruntowne przeredagowanie tekstu. W takim przypadku tekst pracy będzie przypominał raczej rozbudowanego prompta na podstawie którego agent wygeneruje tekst niż drobną korektę językową.
-3. inne przykłady korekty językowej
-4. Sprawdzenie spójności odwołań w tekście do rysunków, tabel, wykresów i wzorów.
-5. Inne sposoby wykorzystania narzędzi AI, które nie przychodzą mi w tej chwili do głowy.
-
-Przypominam, że studencji zdali maturę z języka polskiego z oceną pozytywną i mamy prawo zakładać, że potrafią napisać spójny ciąg zdań w języku polskim. Dlatego używanie agentów do generowania tekstu jest przekroczeniem pewnej niepisanej granicy.
-
-Uwaga. Jeżeli używane przez nas narzędzie sztucznej inteligencji wyświetla nam listę proponowanych zmian, które następnie akceptujemy lub nie, powinno być w porządku. Jeśli jednak używamy narzędzia, które po przeanalizowaniu naszego pliku generuje nam poprawioną wersję pracy bez podania nam miejsc i rodzaju modyfikacji lub też generuje oddzielny plik z takimi informacjami lecz go ignorujemy, sami prosimy się o kłopoty.
+> **Uwaga**  
+> Dobrą praktyką jest wykonywanie korekty językowej zdanie po zdaniu, z prośbą o wyświetlenie zdania przed korektą, po korekcie oraz krótkim opisem wprowadzonych zmian i ich uzasadnieniem. 
+> Poprawianie dużych bloków tekstu jednorazowo, a następnie bezrefleksyjne kopiowanie wyników, zwykle prowadzi do zbyt głębokiej, słabo zweryfikowanej ingerencji.
 
 ### 3.1 Najczęstsze problemy związane z niewłaściwym wykorzystaniem AI
 
-Do najczęściej obserwowanych trudności należą: 
-
-komentarz:
-podane przykłady - np punkt 3 - dotyczą tekstu całkowicie wygenerowanego przez AI i w ogóle nie powinny mieć miejsca w przypadku incydencjonalnego wykorzystania narzędzi sztucznej inteligencji.
-np pomijanie odwołań do rysunków, tabel itp. jeżeli piszemy teks pracy w TEX, ten problem nie powininen w ogóle istnieć. Chyba że ktoś sobie generuje całe akapity tekstu i jedynie wkleja do pracy - tyle że takie działania są niedopuszczalne.
-Najważniejsze jest chyba zaznaczenie, że AI często tworzy odwołania do literatury która nie istnieje i każde źródło trzeba indywidualnie sprawdzić.
+Do najczęściej obserwowanych trudności należą:
 
 - nadmiernie rozbudowane opisy, które zwiększają objętość tekstu, lecz nie wnoszą proporcjonalnej wartości merytorycznej,
-- błędy rzeczowe i nieścisłości, w tym informacje niezgodne ze źródłami, 
+- błędy rzeczowe i nieścisłości, w tym informacje niezgodne ze źródłami,
 - brak spójności pomiędzy poszczególnymi częściami pracy,
 - pomijanie odwołań do rysunków, tabel, źródeł oraz innych rozdziałów,
-- tworzenie fragmentów oderwanych od rzeczywistego kontekstu projektu.
+- tworzenie fragmentów oderwanych od rzeczywistego kontekstu projektu,
+- tworzenie fikcyjnych odwołań do literatury (źródła, które w rzeczywistości nie istnieją).
 
-Z tego względu wszelkie treści opracowywane z pomocą AI powinny być każdorazowo poddawane krytycznej analizie i starannej redakcji.
-(w takim razie po co w ogóle używać AI do generowania tekstu? Nie lepiej kazać od razu studentom pisać pracę samodzielnie?)
+Z tego względu wszelkie treści opracowywane z pomocą AI powinny być każdorazowo poddawane krytycznej analizie i starannej redakcji.  
+Podstawowym założeniem pozostaje samodzielne pisanie pracy - AI może jedynie wspomagać wybrane, jasno zdefiniowane czynności, takie jak korekta językowa.
 
 ## 4. Komunikacja i konsultacje
 
-W standardowym trybie realizacji pracy nie ma konieczności regularnego składania szczegółowych raportów z postępów. 
+W standardowym trybie realizacji pracy nie ma konieczności regularnego składania szczegółowych raportów z postępów.  
 Przyjmuje się, że student samodzielnie planuje i prowadzi kolejne etapy realizacji tematu.
 
 Kontakt z promotorem lub opiekunem pracy jest wskazany przede wszystkim wtedy, gdy:
@@ -104,11 +94,13 @@ Kontakt z promotorem lub opiekunem pracy jest wskazany przede wszystkim wtedy, g
 
 Taki model współpracy sprzyja samodzielności, a jednocześnie umożliwia uzyskanie wsparcia w momentach rzeczywiście wymagających konsultacji.
 
-Przesyłamy pracę do weryfikacji po dokładnym przeczytaniu pracy i upewnieniu się, że nie znaleźliśmy błędów językowych. Nie traktujemy opiekuna jako korektora błędów językowych. Zdaża się, że do korekty trafiają prace z tak dużą liczbą pomyłek językowych, wskazujacych jednoznacznie na wysłanie pracy bez choćby pobieżnego sprawdzenia poprawności językowej - praca napisana "na kolanie" i szybko wysłana do opiekuna. Praca zawierająca dużą liczbę błedów językowych jest sprawdzana znacznie dłużej niż praca gruntownie sprawdzona przed wysłaniem. Szybkie wysłanie pracy nie gwarantuje szybszego zakończenia procesu redakcyjnego, jednocześnie blokuje czas który opiekun może poświęcić na sprawdzenie prac innych studentów.
+Pracę należy przesłać do weryfikacji dopiero po jej uważnym przeczytaniu i usunięciu dostrzeżonych błędów językowych.  
+Nie należy traktować opiekuna pracy jako korektora podstawowych błędów językowych. Zdarza się, że do sprawdzenia trafiają prace zawierające bardzo dużą liczbę oczywistych pomyłek, co jednoznacznie wskazuje na brak choćby pobieżnej autokorekty. Praca przygotowana pobieżnie i szybko przesłana do opiekuna nie przyspiesza procesu recenzowania - przeciwnie, tekst zawierający liczne błędy językowe jest sprawdzany znacznie dłużej niż materiał wcześniej starannie poprawiony.  
+Szybkie przesłanie pracy nie gwarantuje zatem szybszego zakończenia procesu redakcyjnego, a dodatkowo blokuje czas, który mógłby zostać przeznaczony na sprawdzenie prac innych studentów.
 
 ## 5. Planowanie czasu realizacji
 
-Realizacja pracy dyplomowej wymaga odpowiedniego rozplanowania działań w czasie. 
+Realizacja pracy dyplomowej wymaga odpowiedniego rozplanowania działań w czasie.  
 Odkładanie zasadniczej części zadań na końcowy etap prac zazwyczaj utrudnia przygotowanie dopracowanego i spójnego opracowania.
 
 Z tego względu zaleca się, aby możliwie wcześnie rozpocząć działania związane z:
@@ -118,143 +110,345 @@ Z tego względu zaleca się, aby możliwie wcześnie rozpocząć działania zwi�
 - gromadzeniem materiałów źródłowych,
 - przygotowywaniem kolejnych fragmentów tekstu pracy.
 
-Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku rpac inżynierskich) na wykonanie przynajmniej części zadań, które mogą odciążyć późniejsze, bardziej intensywne etapy realizacji projektu.
+Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku prac inżynierskich) na wykonanie przynajmniej części zadań, które mogą odciążyć późniejsze, bardziej intensywne etapy realizacji projektu.
 
 ## 6. Proponowana struktura pracy
 
-Proponowana kolejność pisania pracy (jest to tylko luźna propozycja):
-1. Rozdział 2 - część literaturowa
-2. Rozdział 3, 4, 5, ... - merytoryczna część pracy
-3. Rozdział "wyniki"
-5. Rozdział 1 - wstęp i cel pracy
-6. Rozdział "Podsumowanie"
-7. Abstrakt
+Poniżej przedstawiono przykładową kolejność pisania poszczególnych części pracy (propozycja, nie sztywny wymóg):
+
+1. Rozdział 2 - część literaturowa,
+2. Rozdziały 3, 4, 5, ... - zasadnicza, merytoryczna część pracy,
+3. rozdział z wynikami,
+4. Rozdział 1 - wstęp i cel pracy,
+5. rozdział _"Podsumowanie"_,
+6. abstrakt.
 
 ### 6.1 Strona tytułowa
 
-Praca inżynierska rozpoczyna się od strony tytułowej, którą można pobrać ze strony ....
-Na stronie tytułowej używamy określenia "Projekt dyplomowy inżynierski". (do sprawdzenia)
+Praca inżynierska rozpoczyna się od strony tytułowej, którą należy pobrać z odpowiedniej strony wydziałowej lub uczelnianej.  
+Na stronie tytułowej stosowane jest określenie "Projekt dyplomowy inżynierski".
 
 ### 6.2 Abstrakt
 
-Abstrakt jest szczególnym streszczeniem pracy, który informuje czytelnika o czym jest praca. Założeniem abstraktu jest przedstawienie czytelnikowi informacji o tym, co znajdzie w pracy bez jej dokładnego czytania. Dzięki abstraktom (np w artykułach naukowych) oszczędzamy czas wybierajac do czytania jedynie artykuły zawierające interesujące nas informacje. 
+Abstrakt jest krótkim streszczeniem pracy, informującym czytelnika, czego dotyczy opracowanie.  
+Celem abstraktu jest przedstawienie treści pracy w taki sposób, aby możliwe było podjęcie decyzji o przydatności opracowania bez konieczności wnikliwego czytania całości.
 
-W abstrakcie nie umieszczamy informacji o zawartości poszczególnych rozdziałów pracy (nie jest to spis treści) jak również nie musimy umieszczać szczegółowych informacji technicznych dotyczących budowanego urządzenia. 
+W abstrakcie:
 
-Przykład. Załóżmy, że w ramach projektu inżynierskiego budujemy robota mobilnego wyposażonego w kamerę i lidar, którego zadaniem będzie samodzielna aksploracja terenu i zbudowanie mapy otoczenia.
+- nie należy opisywać zawartości poszczególnych rozdziałów ("W rozdziale drugim opisano...", "Rozdział trzeci zawiera..."),
+- nie należy umieszczać nadmiernie szczegółowych informacji technicznych dotyczących urządzenia czy oprogramowania, chyba że informacje te są kluczowe dla zrozumienia tematu.
 
-W abstrakcie nie umieszczamy następujących sformułowań:
-"W rozdziale drugim opisano ...", "Rozdział trzeci zawiera ..."
+> **Przykład:**
+>  w pracy dotyczącej robota mobilnego z kamerą i lidarem, którego zadaniem jest samodzielna eksploracja terenu i budowa mapy otoczenia, w abstrakcie nie jest konieczne podawanie rodzaju mikrokomputera, typu baterii czy konkretnego modelu lidaru, chyba że ma to fundamentalne znaczenie dla treści pracy.
 
-W abstrakcie nie umiszczamy informacji nadmiernie szczegółowych, dotyczących konstrukcji urządzenia lub użytego oprogramowania. Wyjątkiem jest sytuacja, gdy taka informacja jest kluczowa z punktu widzenia naszego tematu. W naszym przykładzie budowy robota mobilnego nie musimy w abstrakcie podawać informacji dotyczących użytego mikrokomputera, typy baterii, modelu lidar-u itp. 
+> **Przykładowy abstract**
+> W niniejszej pracy zaprezentowano projekt i konstrukcję robota zdolnego do układania kostki Rubika. 
+> Robot został wyposażony w precyzyjny mechanizm manipulacyjny oparty na serwomechanizmach, stacjonarny system wizyjny do rozpoznawania kolorów oraz algorytm planowania ruchów, co umożliwia skuteczne i dokładne układanie kostki. 
+> W pracy przedstawiono przegląd istniejących rozwiązań, kryteria wyboru oraz porównanie najczęściej wykorzystywanych algorytmów układania kostki. 
+> Zawarto szczegółowy opis zastosowanych komponentów i ich połączenia. 
+> Opisano własnoręcznie zaimplementowany algorytm planowania ruchów (układania kostki) oraz system sterowania. 
+> Opisano system sterowania napędami, bazujący na sygnałach sterujących w postaci sygnałów PWM. 
+> Przeprowadzone testy potwierdziły skuteczność robota w układaniu różnych konfiguracji kostki Rubika. 
+> Omówiono napotkane problemy techniczne, takie jak trudności w rozpoznawaniu kolorów przez kamerę oraz uzyskania wysokiej precyzji obrotów ścian kostki. 
+> Przedstawiono zastosowane rozwiązania, które pozwoliły na wyeliminowanie tych problemów i poprawę działania systemu. 
+> W wyniku prac zbudowano funkcjonalnego robota skutecznie układającego kostkę Rubika.
 
 ### 6.3 Spis treści
 
-Spis treści powinien być wyrównany do prawej strony (numeracja stron). Po lewej stronie powinny być wcięcia związane z numerami stron rozdziałów oraz podrozdziałów. Najczęściej spis treści generowany jest automatycznie (np w TEX) i nie powinno byc z nim dużo problemów. Należy unikać zbyt długich tytułów rozdziałów i podrozdziałów. Unikamy nadmiernej fragmentyzacji pracy. Prace inżynierski nie są zbyt obszerne objętościowo. Najczęściej posiadają od 50 do 80 stron. W przypadku nadmiernej fragmentyzacji (wiele podrozdziałów drugiego poziomu) uzyskujemy w spisie treści kilka pozycji o tym samym numerze strony. Wynika to stąd, ża na jednej stronie potrafi pojawić się kilka podrozdziałów. Krótko mówiąc, nie zakładamy nowego podrozdziału dla jednego krótkiego akapitu. Rekordziści potrafili tworzyć podrozdział składający się z jednozdaniowego akapitu. Myślę, że dobrze będzie przyjąć, że jeden podrozdział nie powinien być krótszy niż jedna strona. 
+Spis treści powinien być przejrzysty i estetyczny.  
+Zazwyczaj:
+
+- numery stron są wyrównane do prawej,
+- tytuły rozdziałów i podrozdziałów są zapisane z odpowiednimi wcięciami.
+
+W większości przypadków spis treści jest generowany automatycznie (np. w LaTeX-u), co znacząco ułatwia zachowanie poprawnego układu.  
+Należy unikać:
+
+- zbyt długich tytułów rozdziałów i podrozdziałów,
+- nadmiernej fragmentaryzacji pracy (wielu krótkich podrozdziałów na tej samej stronie).
+
+Prace inżynierskie zazwyczaj mają objętość ok. 50-80 stron.  
+Przy zbyt dużej liczbie podrozdziałów drugiego poziomu może wystąpić sytuacja, w której kilka pozycji w spisie treści wskazuje tę samą stronę. 
+Nie należy zakładać nowego podrozdziału dla jednego krótkiego akapitu. 
+Za rozsądną zasadę przyjmuje się, że podrozdział nie powinien być krótszy niż jedna strona.
 
 ### 6.4 Lista symboli
 
-Za spisem treści często umieszczamy listę symboli. Powinna być ona wyrównana i estetyczna. Każdą pozycję opisujemy krótko ale wyczerpująco. Jeżeli dany symbol jest związany z wielkością fizyczną, powinniśmy podać jego jednostkę. Ideą stojącą za tworzeniem listy symboli jest ułatwienie czytania pracy. Tzn. jeżeli dany symbol wykorzystywany jest w kilku miejscach pracy, warto wstawić go do listy symboli. Np. wprowadzamy symbol X w rozdziale 3. Następnie w rozdziale 5 odwołujemy się do symbolu X. Nie chcemy go ponownie definiować. Jeżeli dany symbol znajduje się w liście symboli, czytelnik nie musi szukać miejsca gdzie symbol został pierwszy raz wprowadzony, lecz zagląda do listy i dowiaduje się co dany symbol oznacza. Dlatego też, jeżeli dany symbol jest wykorzystywany lokalnie (np. występuje w jednym równaniu lub podrozdziale i już nigdzie indziej się do niego nie odwołujemy), nie umieszczamy go w liście symboli. W zależności od charakteru pracy, oddzielna lista symboli może nie być konieczna. Może się też zdarzyć tak, że wprowadzimy oddzielną listę symboli (matematycznych) oraz listę skrótów. 
+Za spisem treści często umieszczana jest lista symboli.  
+Lista ta powinna być:
+
+- estetyczna i uporządkowana,
+- opatrzona krótkimi, jednoznacznymi opisami,
+- uzupełniona o jednostki, jeśli symbol dotyczy wielkości fizycznej.
+
+Zadaniem listy symboli jest ułatwienie lektury pracy.  
+Jeżeli dany symbol jest używany w kilku miejscach pracy, wskazane jest umieszczenie go na liście, tak aby czytelnik nie musiał wyszukiwać miejsca pierwszego wprowadzenia oznaczenia.
+
+Jeżeli symbol wykorzystywany jest wyłącznie lokalnie (np. w jednym równaniu lub krótkim fragmencie tekstu), nie ma potrzeby umieszczania go na liście.  
+W zależności od charakteru pracy:
+
+- lista symboli może mieć charakter zbiorczy,
+- dopuszczalne jest wydzielenie odrębnej listy symboli matematycznych oraz listy skrótów.
 
 ### 6.5 Rozdział pierwszy: Wstęp i cel pracy
 
-Jest to rozdział występujący we wszystkich pracach inżynierskich i magisterskich, posiadający ściśle ustaloną strukturę. Rozdział ten najlepiej napisać pod koniec pisania pracy. Posiada on następującą strukturę:
+Rozdział pierwszy jest obecny we wszystkich pracach inżynierskich i magisterskich i charakteryzuje się stosunkowo stałą strukturą.  
+Zaleca się przygotowanie tego rozdziału po opracowaniu zasadniczej części pracy.
+
+Struktura rozdziału obejmuje:
 
 #### Wprowadzenie
 
-Jest to krótkie nawiązanie do tematu pracy. W zależności od tematu, wprowadzenie może wyglądać odmiennie. Można się tu odnieść do aktualnych trendów w danej dziedzinie nauki lub techniki. Można odnieść się do danych historycznych. Czasem może pojawić się jakaś definicja i rozszerzenie tej definicji. Może być to opsanie przyczyny dla której dany temat pracy został sformułowany, jego kontekst społeczny, użytkowy, badawczy. Generalnie jest to miejsce w którym przygotowujemy czytelnika do zrozumienia celu pracy, który jest sformułowany w kolejnym podrozdziale. Np. jeżeli w sformułowaniu celu pracy występuje określenie techniczne, które może nie być zrozumiałe, warto we wstępie naświetlić wątek techniczny lub naukowy pozwalający później zrozumieć czytelnikowi o co chodzi w celu pracy. Ten fragment najczęściej ma długość od pół do jednej strony. W żadkich, uzasadnionych przypadkach, poświęcamy więcej miejsca na wprowadzenie (np 1,5 do 2 stron). Generalnie w tej części pracy nie umieszczamy zdjęć, rysunków i wykresów.
+Wprowadzenie stanowi krótkie nawiązanie do tematu pracy.  
+W tej części tekstu dopuszczalne jest:
+
+- odwołanie do aktualnych trendów w danej dziedzinie,
+- przedstawienie zarysu historycznego,
+- zaprezentowanie definicji i krótkich omówień pojęć,
+- wskazanie tła społecznego, użytkowego lub badawczego tematu.
+
+Zadaniem wprowadzenia jest przygotowanie czytelnika do zrozumienia celu pracy, opisanego w kolejnym podrozdziale.  
+Jeżeli w sformułowaniu celu pojawiają się mniej oczywiste terminy techniczne, ich objaśnienia powinny zostać umieszczone we wprowadzeniu.
+
+Typowa długość wprowadzenia mieści się w przedziale od pół do jednej strony.  
+W uzasadnionych przypadkach objętość może zostać zwiększona (np. do 1,5-2 stron).  
+W tej części pracy nie umieszcza się ilustracji, zdjęć ani wykresów.
 
 #### Podrozdział 1.1 Cel pracy
 
-Sformułowanie celu pracy. Krótki, kilkozdaniowy akapit.
+Podrozdział zawiera jasne, zwięzłe sformułowanie celu pracy, w postaci krótkiego, kilkozdaniowego akapitu.
 
 #### Podrozdział 1.2 Założenia projektowe
 
-W tym miejscu opisujemy założenia projektowe. Samo sformułowanie celu pracy najczęściej nie zajmuje dużo miejsca. Dlatego też, czasami oba podrozdziały łączy się w jeden. Tzn. Nie mamy oddzielnego podrozdziału "Założenia projektowe", lecz ta część jest kolejnym akapitem podrozdziału "Cel pracy". W założeniach projektowych podajemy przyjęte założenia sformułowane podczas określania celu pracy. Przykład. Jeżeli opiekun zgłosił temat rysowania portretu człowieka za pomocę robota przemysłowego, założeniem pracy może być wykorzystanie robota Kawasaki będącego częścią wyposażenia laboratorium. Jest to założenie projektowe narzucone przez opiekuna. Innym założeniem może być wykorzystanie minikomputera <konkretny model> w konstrukcji autonomicznego pojazdu mobilnego, o ile ten wymóg jest wprowadzony od samego początku przez opiekuna lub studenta zgłaszającego temat. Założeniem projektowym może być narzucony algorytm. Np Tematem pracy może być powstanie aplikacji generującej trasę robota mobilnego a założeniem projektowym może być narzucona metoda: np sztucznego potęcjału lub algorytm A*. Jeżeli jednak wykorzystanie danego sprzętu lub algorytmu wynikają z późniejszych decyzji projektowych, w żadnym wypadku nie umieszczamy w tym miejscu informacji o tym, że wykorzystano dany model sprzętu lub dane rozwiązanie algorytmiczne. 
+W tym podrozdziale opisuje się założenia przyjęte podczas formułowania celu pracy.  
+W przypadku niewielkiej objętości tekstu dopuszczalne jest połączenie podrozdziałów "Cel pracy" i "Założenia projektowe".
+
+Założenia projektowe mogą dotyczyć w szczególności:
+
+- wymogu wykorzystania konkretnego urządzenia (np. robota przemysłowego z wyposażenia laboratorium),
+- użycia określonego minikomputera w konstrukcji pojazdu autonomicznego,
+- zastosowania konkretnego algorytmu (np. sztucznego potencjału, algorytmu A\*).
+
+Jeżeli wybór sprzętu lub metody wynika z późniejszych decyzji projektowych, informacja o tym nie powinna być umieszczana w założeniach projektowych.
 
 #### Podrozdział 1.3 Podział pracy
 
-Ten podrozdział umieszczamy wyłacznie w przypadku pracy wieloosobowej. Umieszczamy tutaj informację o tym jaką część pracy wykonała konkretna osoba. Teoretycznie można taki opis zrealizować w postaci listy, niemniej nie wygląda to zbyt dobrze i preferuje się wykonanie opisu w postaci zwartego tekstu (opisowo).
+Podrozdział 1.3 jest stosowany wyłącznie w pracach wieloosobowych.  
+Zawiera opis podziału zadań pomiędzy poszczególnych autorów.  
+Formalnie dopuszczalne jest wykorzystanie formy listy, jednak zalecane jest zastosowanie zwartego, opisowego ujęcia.
 
 #### Podrozdział 1.4 Streszczenie pracy
 
-W tym miejscu umieszczamy streszczenie pracy w postaci:
-"W rozdziale drugim przedstawiono ....",
-"Rozdział trzeci zawiera ...",
-"Uzyskane wyniki przedstawiono/opisano w rozdziale szóstym".
+Podrozdział 1.4 zawiera streszczenie struktury pracy w postaci krótkiego przeglądu kolejnych rozdziałów, na przykład:
+
+- _"W rozdziale drugim przedstawiono ..."_
+- _"Rozdział trzeci zawiera ..."_
+- _"Uzyskane wyniki opisano w rozdziale szóstym"_.
 
 ### 6.6 Rozdział drugi: Część literaturowa
 
-Tytuł tego rozdziału zależy od tematu pracy i intencji autora. Nazwa "Część literaturowa" jest jedynie ogólnym określeniem intencji przyświęcającej temu rozdziałowi. Przykładowe tytuły: "Przegląd aplikacji realizujących wykonywanie rysunków przez roboty przemysłowe", "Przegląd algorytmów wyznaczania trajektorii robotów autonomicznych", "Historia powstania i struktura środowiska ROS". Zadaniem tego rozdziału jest przedstawienie aktualnej wiedzy lub rozwiązań technicznych w dziedzinie poruszanej przez dany temat pracy inżynierskiej. Znaczenie tego rozdziału można ująć również w ten sposób: "część literaturowa" ma pokazać nasze rozwiązanie na tle innych, aktualnych rozwiązań. Tzn. zanim zaczniemy przedstawiać opis naszego rozwiązania, pokazujemy jak do danego problemu podeszły inne zespoły, przedstawiamy inne możliwe rozwiązania danego problemu. Jeżeli temat jest bardziej teoretyczny niż konstrukcyjny, "część literaturowa" może zawierać powtórkę/uzupełnienie wiedzy teoretycznej, która jest niezbędna do prawidłowego zrozumienia rozwiązania podanego w naszej pracy (z punktu widzenia zakresu nauczania automatyka). Rozmiar części literaturowej powinien wynosić od kilku do kilkunastu stron. Jest to kwestia indywidualna, niemniej część literaturowa jest uzupełnieniem pracy a nie jej zasadniczą częścią. 
+Tytuł rozdziału drugiego jest uzależniony od tematu pracy i zamierzonego zakresu treści. Możliwe są między innymi następujące sformułowania:
+
+- _"Przegląd aplikacji realizujących wykonywanie rysunków przez roboty przemysłowe"_,
+- _"Przegląd algorytmów wyznaczania trajektorii robotów autonomicznych"_,
+- _"Historia powstania i struktura środowiska ROS"_.
+
+Zadaniem rozdziału drugiego jest przedstawienie stanu wiedzy lub dostępnych rozwiązań technicznych w dziedzinie związanej z tematem pracy.  
+Rozdział ma na celu:
+
+- zaprezentowanie sposobów podejścia do podobnych problemów,
+- wskazanie miejsca projektowanego rozwiązania na tle istniejących opracowań.
+
+W pracach o bardziej teoretycznym charakterze część literaturowa może zawierać uporządkowanie i uzupełnienie wiedzy teoretycznej niezbędnej do zrozumienia dalszej części pracy.  
+Typowa objętość części literaturowej wynosi od kilku do kilkunastu stron; jest to rozdział uzupełniający, a nie zasadnicza część pracy.
 
 ### 6.7 Kolejne rozdziały pracy
 
-Liczba oraz struktura kolejnych rozdziałów pracy zależy od tematu pracy i inwencji autora. Jedynie trzeba zachowac wewnętrzną spójność pracy. O pracy można myśleć jak o pewnej opowieści, która ma swoją narrację: wstęp, rozwinięcie, zakończenie. Stosując analogię do literatury, praca nie powinna przypominać kryminału, w którym powoli rozwijane są kolejne wątki i całość dopiero łączy się w spójny opis w ostatnim rozdziale, kiedy bohater w końcu rozwiązuje wszystkie zagadki. W odniesieniu do pracy dyplomowej, należy tak ustawić kolejność rozdziałów, żeby wykluczyć (lub przynajmniej możliwie zminimalizować) konieczność odwoływania się do rozwiązań, które będą opisane w kolejnych rozdziałach lub podrozdziałach. Generalnie, unikamy odwoływania się do rysunków, wzorów i tabel, które pojawią się w dalszej części pracy. Nie zawsze da się tego uniknąć, niemniej na tyle na ile jest to możliwe należy trzymać się tej zasady. W miarę możliwości unikamy dalekich odwołań w obu kierunkach, przy czym odwołania do poprzednich rozdziałów są akceptowalne. 
+Liczba i struktura kolejnych rozdziałów są uzależnione od tematu pracy oraz przyjętej koncepcji. 
+Wymagana jest wewnętrzna spójność układu treści.  
+Praca powinna tworzyć uporządkowaną całość o czytelnej strukturze:
 
-Przykładowy układ rozdziałów w pracy sprzętowej, polegającej na konstrukcji jakiegoś urządzenia (np robota mobilnego):
-1. Wstęp i cel pracy
-2. "część literaturowa"
-3. Konstrukcja mechaniczna
-4. Układ elektroniczny
-5. Algorytmy sterowania (w tym np wyprowadzenie modelu matematycznego obiektu)
-6. Oprogramowanie
-7. Testy/prezentacja uzyskanych wyników
-8. Podsumowanie
+- wstęp,
+- rozwinięcie,
+- zakończenie.
 
-Często opis algorytmów sterujących oraz oprogramowania umieszczany jest w jednym rozdziale. Przykładowy układ rozdziałów ma jedynie pokazać strukturę pracy. W zależności od tematu może być zupełnie inny. Tytuły poszczególnych rozdziałów ustalamy samodzielnie. Ostatni rozdział można nazwać "Podsumowanie" ale sa tez prace, w których został nazwany "Wyniki i dyskusja". Ostatni rozdział powinien zawierać krótkie podsumowanie osiągniętych rezultatów: wymienienie tego co udało się zrobić, czego nie udało się wykonać i dlaczego oraz ewentualne kierunki dalszego rozwoju projektu. 
+Struktura pracy nie powinna przypominać utworu fabularnego, w którym kluczowe informacje pojawiają się dopiero na końcu. 
+Należy dążyć do ograniczenia liczby odwołań do treści umieszczonych w późniejszych rozdziałach.
 
-### 6.8 Część literaturowa (Bibliografia), Spis rysunków, Spis tabel. 
+W miarę możliwości należy:
 
-Jeżeli praca jest pisana w TEX, spis treści, część literaturowa, spis rysunków i tabel tworzone są automatycznie. Dlatego też gorąco polecam pisanie pracy w TEX.
-Nieco dłuższego omówienia wymaga część literaturowa. Jest kilka sposobów (formatów) zapisu części literaturowej (bibliografia). Mniej jest ważne który z sposobów zapisu wybierzecie, ważne żeby cała część literaturowa była spójna (ten sam format zapisu). Jeżeli piszecie pracę w TEX, sposób generowania części literaturowej zostanie zdefiniowany przez plik konfiguracyjny. 
-W części literaturowej umieszczamy odniesienia do książek, artykułów naukowych, doktoratów, prac magisterskich, inżynierskich itp. W takim przypadku nie ma potrzeby umieszczania linku do strony z której ściągneliście daną pozycję literaturową. Opis takiej pozycji powninien zawierać autora lub autorów, tytuł, wydawcę, rok wydania, nazwę konferencji jeżeli jest to artykuł konferencyjny, ewentualnie zakres stron jeśli jest to pozycja zawierajaca zbiór artykułów a my odwołujemy się do jednego z nich. Jest to zestaw danych jednoznacznie identyfikujący dane źródło i nie potrzeba dodawać nic więcej.
-W przypadku gdy chcemy odwołać się do jakiegoś dokumentu umieszczonego na stronie internetowej (np dokumentacji technicznej, opracowania internetowego jakiegos tematu, artykułu interetowego - nierecenzowanego), podajemy: krótki opis informujący nas co zawiera link do którego się odwołujemy, link, datę dostępu. Jeśli chodzi o datę dostępu, najlepiej będzie przed złożeniem pracy w systemie sprawdzić czy wszystkie linki do których się odwołujemy są wciąż aktywne i zawierają odpowiednią treść a następnie wpisać datę złożenia pracy do systemu.
+- unikać odwołań do rysunków, wzorów i tabel, które pojawiają się dopiero w kolejnych rozdziałach,
+- dopuszczać odwołania do elementów umieszczonych wcześniej.
 
-Wszystkie materiały zewnętrzne do których się odwołujemy w pracy powinny posiadać odnośnik do źródła. W przypadku gdy chcemy skorzystać z zdjęcia lub rysunku ściągniętego z innej pracy lub strony internetowej, w opisie pod rysunkiem powinniśmy wstawić odniesienie do części literaturowej. Jeżeli jest to artykuł lub książka, nie ma problemu. Jeżeli jednak jedynym powodem podania w części literaturowej linku do jakiejś strony jest chęć skorzystania z zdjęcia umieszczonego na tej stronie, zamiast zaśmiecania części literaturowej niepotrzebnymi linkami internetowymi, lepszym pomysłem będzie umieszczenie w opisie rysunku przypisu dolnego, w którym umieścimy krótki opis i link do strony z której pobraliśmy zdjęcie.
+> **Przykładowy układ rozdziałów w pracy o charakterze sprzętowym (np. dotyczącej konstrukcji urządzenia) może wyglądać następująco:**  
+> 1. Wstęp i cel pracy,  
+> 2. część literaturowa,  
+> 3. konstrukcja mechaniczna,  
+> 4. układ elektroniczny,  
+> 5. algorytmy sterowania (w tym model matematyczny obiektu),  
+> 6. oprogramowanie,  
+> 7. testy i prezentacja wyników,  
+> 8. podsumowanie.
 
-W części literaturowej umieszczamy tylko linki do stron bezpiecznych (czytający pracę może chcieć kliknąć link i sprawdzić materiały źródłowe) i wiarygodnych. Wiarygodnych pod względem trwałości danego linku i treści tam umieszczonych jak również wiarygodności umieszczonych tam informacji. Dlatego też odwoływanie się w części literaturowej do takich źródeł jak wikipedia nie jest dobrze widziane. W wikipedii można znaleźć wiele prawdziwych informacji, niemniej jest to źródło w którym prawie każdy może napisać co chce. Pod danym hasłem jednego dnia może być jeden opis, drugiego możemy znaleźć tam coś zupełnie innego. Korzystając z wikipedii trzeba mieć na uwadzę konieczność weryfikacji umieszczonych tam informacji oraz krytycznego do nich podejścia.
+W wielu przypadkach opis algorytmów sterowania i oprogramowania jest umieszczany w jednym rozdziale.  
+Ostateczny układ rozdziałów powinien być dostosowany do specyfiki tematu, a tytuły rozdziałów dobierane indywidualnie.  
+Ostatni rozdział może nosić tytuł "Podsumowanie" lub "Wyniki i dyskusja" i powinien zawierać:
+
+- podsumowanie osiągniętych rezultatów,
+- wskazanie elementów niezrealizowanych oraz przyczyn ich niewykonania,
+- możliwe kierunki dalszego rozwoju projektu.
+
+### 6.8 Część literaturowa (bibliografia), spis rysunków, spis tabel
+
+W przypadku pisania pracy w LaTeX-u spis treści, bibliografia oraz spisy rysunków i tabel mogą być generowane automatycznie, co stanowi rozwiązanie zalecane ze względu na spójność i łatwość aktualizacji.
+
+W odniesieniu do bibliografii przyjmuje się, że:
+
+- dopuszczalnych jest kilka formatów zapisu pozycji,  
+- kluczowa jest spójność formatu w obrębie całej pracy,  
+- w LaTeX-u sposób prezentacji bibliografii jest zwykle określony przez zastosowany styl lub plik konfiguracyjny.
+
+W części literaturowej umieszczane są odniesienia do:
+
+- książek,
+- artykułów naukowych,
+- prac dyplomowych i doktorskich,
+- innych recenzowanych źródeł.
+
+Opis pozycji bibliograficznej powinien zawierać w szczególności:
+
+- nazwisko (nazwiska) autora lub autorów,
+- tytuł,
+- nazwę wydawcy,
+- rok wydania,
+- nazwę konferencji (dla artykułów konferencyjnych),
+- zakres stron (w przypadku rozdziału w pracy zbiorowej).
+
+W przypadku odwołań do dokumentów udostępnianych wyłącznie w Internecie (np. dokumentacje techniczne, opracowania tematyczne, nierecenzowane artykuły) opis powinien obejmować:
+
+- krótki opis zawartości,
+- adres URL,
+- datę dostępu.
+
+Przed złożeniem pracy zaleca się weryfikację aktywności wszystkich linków oraz zgodności treści z opisem, a następnie aktualizację daty dostępu (np. na datę złożenia pracy).
+
+Wszystkie materiały zewnętrzne wykorzystywane w pracy powinny być opatrzone odniesieniem do źródła.  
+W przypadku wykorzystania rysunku lub zdjęcia pochodzącego z innej pracy lub strony internetowej:
+
+- w opisie rysunku należy umieścić odwołanie do pozycji w bibliografii lub przypis dolny zawierający krótki opis i adres URL (w sytuacji, w której dodanie pełnego wpisu bibliograficznego wyłącznie dla jednego rysunku byłoby niecelowe).
+
+W części literaturowej powinny znaleźć się wyłącznie odnośniki do źródeł:
+
+- bezpiecznych,
+- wiarygodnych pod względem treści oraz trwałości.
+
+> **Uwaga:**  
+> Odwołania do haseł z Wikipedii są generalnie uznawane za niewłaściwe jako główne źródła. 
+> Dopuszczalne jest wykorzystywanie tego typu treści pomocniczo, przy zachowaniu krytycznego podejścia i weryfikacji w innych, bardziej wiarygodnych materiałach. 
+> Sama Wikipedia może stanowić dobre źródło cytowań (na ogół w dolnej części strony znajdują się odnośniki do materiałów źródłowych).
 
 ## 7. Zbiór uwag edytorskich
 
+Oficjalne wytyczne dla autorów prac są dostępne na [stronie wydziału](https://eti.pg.edu.pl/studenci/dyplomy).
+
 ### 7.1 Język pracy
 
-Praca dyplomowa jest dokumentem formalnym (pisanym). Dlatego język pracy nie powinien przypominać nieformalnego języka mówionego. Nie chodzi tylko o nieużywanie wulgaryzmów itp ale również fakt, że język mówiony (swobodna rozmowa) jest pełen skrótów i niedomówień. Język pracy powinien być w miarę możliwości czysty językowo i jednocześnie jednoznaczny (ścisły). Unikamy języka poetyckiego. 
+Praca dyplomowa jest dokumentem formalnym, dlatego język tekstu nie powinien przypominać nieformalnego języka mówionego.  
+W szczególności należy:
 
-Przykład zdania niejednoznacznego: "Żmija ukąsiła Kleopatrę i umarła". Nie wiemy czy umarła Żmija czy Kleopatra.
+- unikać skrótów myślowych i niedomówień,
+- dbać o poprawność gramatyczną i stylistyczną,
+- unikać języka przesadnie "poetyckiego".
 
-W pracy można używać zdań wielokrotnie złożonych, niemniej jeśli ktoś ma problemy z prawidłowym złożeniem zdań wielokrotnie złożonych, lepiej jest stosować zdania proste. Zdania wielokrotnie złożone mają to do siebie, że często zrozumienie pierwszej części zdania wymaga przeczytania całości a następnie poskładania tego w spójną całość. Jeżeli zdanie jest długie na wiele, wiele linijek, zrozumienie takiego zdania wymaga pewnego wysiłku intelektualnego (nawet jeśli zdanie jest prawidłowo zbudowane). Jeśli zdanie jest wadliwe, nawet kilkukrotne przeczytanie zdania nie gwarantuje zrozumienia tego co autor miał na myśli. Pamiętajmy, że naszym celem jest to, żebym recenzent z przyjemnością przeczytął naszą pracę a nie żeby go intelektualnie zamęczyć. Zrozumienie części merytorycznej pracy (jeżeli jest to praca teoretyczna) jest już wystarczającym wyzwaniem intelektualnym, nie dodawajmy do tego kolejnych zagadek logicznych w postaci odkodowywania zdań złożonych.
+> **Przykład zdania niejednoznacznego:**  
+> _"Żmija ukąsiła Kleopatrę i umarła."_ - nie wiadomo, do którego podmiotu odnosi się orzeczenie "umarła".
 
-W pracy staramy się nie używać zdań w pierwszej osobie. Zdania piszemy najczęściej w formie bezosobowej. Np. zamiast pisać "Wydrukowaliśmy obudowę robota na drukarce 3D", lepiej napisać "Obudowa robota została wykonana w technologi ruku 3D". Jeżeli chcemy zaznaczyć jakąś chronologię zdarzeń, używamy czasu przeszłego. Jednak w zdecydowanej większości praca będzie pisana w czasie teraźniejszym. Jeżeli opisujemy jakieś prawa przyrody, algorytm, pewne rozwiązania itp, odpowiednim czasem jest czas teraźniejszy. Dlaczego? Prawo grawitacji jest prawdziwe w przeszłości, teraźniejszości i przyszłości (jest poza czasem). Jeżeli opisuję swój algorytm (czyli rozwiązanie pewnego problemu), będzie one prawidłowe (jeżeli jest poprawne) nie wczoraj, nie jutro ale zawsze. 
+Dopuszczalne jest stosowanie zdań wielokrotnie złożonych, jednak w przypadku trudności składniowych zaleca się używanie zdań prostszych.  
+Długie zdania z wieloma wtrąceniami utrudniają zrozumienie tekstu, a ewentualne błędy składniowe dodatkowo komplikują odbiór.  
+Celem powinno być ułatwienie lektury i jednoznaczne przekazanie treści, a nie tworzenie konstrukcji wymagających nadmiernego wysiłku interpretacyjnego.
 
-Jeżeli będziecie pisać pracę w trybie bezosobowym, nalezy zrobić to w taki sposób, żeby jednak zaznaczyć co faktycznie było wykonane przez was. Jaki zakres pracy jest waszym dziełem a jaka część rozwiązania wynika w zastosowania gotowych elementów - czy to w postaci użycia gotowej biblioteki czy gotowego rozwiązania sprzętowego.
-Miałem przypadki świetnej pracy inżynierskiej, w której student tak bardzo zapędził się w używaniu trybu bezosobowego, że pomimo wykonania ogromnej ilości pracy trudno było doczytać się informacji co właściwie było wykonane przez studenta a co nie. 
+W pracy należy unikać pierwszej osoby liczby pojedynczej i mnogiej.  
+
+> **Przykład:**  
+> Zamiast formy: "Wydrukowaliśmy obudowę robota na drukarce 3D"  należy stosować zapis: "Obudowa robota została wykonana w technologii druku 3D".
+
+Opis praw przyrody, algorytmów oraz ogólnych rozwiązań powinien być prowadzony w czasie teraźniejszym, ponieważ ich ważność nie jest związana z konkretnym momentem czasowym.  
+Czas przeszły powinien być stosowany przede wszystkim do opisu wykonanych działań, na przykład przebiegu eksperymentów.
+
+Przy stosowaniu form bezosobowych należy zadbać o to, aby z tekstu jednoznacznie wynikało:
+
+- co zostało wykonane przez autora pracy,
+- co wynika z wykorzystania gotowych rozwiązań sprzętowych, programistycznych lub bibliotecznych.
 
 ### 7.2 Symbole
 
-We wzorach matematycznych nie używamy nazw pochodzących z kodu programu. Jeżeli we wzorze pojawi się nazwa "indeks", z matematycznego punktu widzenia jest to iloczyn elementów "i", "n", "d", "e", "k" i "s". Dlatego też w pracy wykorzystujemy jedynie symbole jednoelementowe. Jeżeli dany symbol wykorzystamy w jednym miejscu do oznaczenia jakiejś wielkości, nie możemy wykorzystać go w innym miejscu do oznaczenia innej wielkości. Spójność pracy polega na tym, że w obrębie pracy te same symbole nie mogą oznaczać różnych rzeczy. Jeżeli jednak chcemy użyć głównego symbolu do różnych rzeczy, używamy indeksów dolnych i górnych (o ile nie będą się myliły z operacjami podniesienia liczby do danej potęgi). Dla przykładu, punkt na obrazie możemy oznaczyć symbolem "O", zaś współrzędne punktu na obrazie symbolami "O_x" i "O_y". Symbole "O_x" i "O_y" są różnymi symbolami, pomimo, że główny element "O" jest ten sam. Jeżeli chcemy wykorzystać symbol "O" do przedstawienia współrzędnych punktu "O" w różnych układach współrzędnych, możemy wykorzystać indeks górny (lewy) do określenia w jakim układzie współrzędnych wyrażone są składowe położenia punku.
+We wzorach matematycznych nie należy używać nazw pochodzących bezpośrednio z kodu programu.  
+Symbol typu "indeks" mógłby zostać potraktowany jako iloczyn liter "i", "n", "d", "e", "k", "s".  
+W pracy powinny być stosowane symbole jednoelementowe, to znaczy pojedyncze litery, ewentualnie uzupełnione indeksami.
 
-#Bardzo ważna uwaga !!!
-Poszczególne symbole, umieszczone w głównym tekście pracy, we wzorach, na rysunkach i w tabelach powinny wyglądać identycznie. To znaczy, użyta czcionka, pochylenie lub jego brak, rozmiar czcionki powinny być identyczne. W przypadku pracy pisanej w TEX nie ma z tym większego probelmu, gdyż TEX pozwala "pisać" na rysunku w dokładnie taki sam sposób jak w treści pracy czy w równaniach (symbol czy wzór matematyczny definiowany jest w ten sam sposób). Problem pojawia się, gdy pracę piszemy w Wordzie lub innym podobnym edytorze. W takim przypadku rysunki powstają najczęściej w innym programie i wraz z opisami są importowane do końcowego pliku. W takim wypadku, czcionka w programie w którym powstają rysunki i czcionka w edytorze w którym jest pisana praca nie są identyczne. Należy wtedy postarać się możliwie najlepiej dopasować do siebie obie używane czcionki.
+Należy przyjąć następujące zasady:
 
-### 7.3 Przecinki
+- ten sam symbol nie powinien oznaczać w różnych miejscach pracy różnych wielkości,
+- w przypadku potrzeby rozróżnienia wielkości powiązanych należy stosować indeksy dolne lub górne, z zachowaniem ostrożności, aby nie powodowały one niejednoznaczności z zapisem potęg.
 
-Praca dyplomowna najczęściej pisana jest w języku polskim. Przypomina się, że w języku polskim, do rozdzielenia części całkowitej i ułamkowej (w zapisie dziesiętnym) używa się przecinków a nie kropek. Dlatego też w całej pracy należy bezwzględnie używac przecinków zamiast kropek. Jeżeli mamy w nawiasie dwie liczby ułamkowe (np. współrzędne punktu w układzie 2D), poszczególne pozycje rozdzielamy średnikiem. Powyższą zasadę stosujemy również w przypadku prezentacji.
+> **Przykład:**  
+> - punkt na obrazie - symbol \(O\),  
+> - współrzędne punktu - \(O_x\), \(O_y\).
+
+Jeżeli współrzędne tego samego punktu są wyrażane w różnych układach odniesienia, dopuszczalne jest użycie indeksów górnych, np. \(O^{A}\), \(O^{B}\).
+
+> **Bardzo ważne:**  
+> Symbole używane w tekście głównym, we wzorach, na rysunkach i w tabelach powinny wyglądać identycznie, to znaczy powinny mieć tę samą czcionkę, styl i rozmiar. 
+> W przypadku LaTeX-a uzyskanie takiej spójności jest stosunkowo łatwe, ponieważ symbole na rysunkach mogą być generowane w taki sam sposób jak w tekście. 
+> W przypadku edytorów typu Word, w których rysunki są przygotowywane w osobnym programie, należy zadbać o możliwie najlepsze dopasowanie czcionek.
+
+### 7.3 Przecinki i zapis liczb
+
+W pracy dyplomowej pisanej w języku polskim należy stosować polskie zasady zapisu liczb:
+
+- część całkowitą i ułamkową należy oddzielać przecinkiem (np. 3,14),
+- w nawiasach, przy dwóch liczbach ułamkowych, np. współrzędnych punktu, poszczególne liczby należy rozdzielać średnikiem.
+
+Zasady te obowiązują również w materiałach prezentacyjnych.
 
 ### 7.4 Wstawki angielskojęzyczne
 
-Ponieważ praca jest pisana w języku polskim, unikamy używania wstawek z innych języków (w naszych warunkach największym problemem jest stawianie słów z języka angielskiego). Dbamy o czystość języka polskiego. Oczywiście zasada ta nie obowiązuje w przypadku braku odpowiedników słów w języku polskim lub w przypadku, gdy używanie określeń polskojęzycznych jest kłopotliwe (brzmi nienajlepiej lub w danym przypadku określenie angielskojęzyczne stało się określeniem wyraźnie dominującym i paradoksalnie brzmi w języku polskim bardziej naturalnie). Uwaga ta odnosi się również do języka prezentacji.
+Ponieważ praca jest pisana w języku polskim, należy unikać niepotrzebnych wstawek z innych języków.  
+Wyjątki stanowią sytuacje, w których:
+
+- brak jest sensownego polskiego odpowiednika,
+- utrwalone określenie angielskie funkcjonuje w praktyce bardziej naturalnie niż jego polski odpowiednik.
+
+Uwaga ta odnosi się również do języka prezentacji.
 
 ### 7.5 Różne drobne uwagi
 
-Przy obecnym niechlujstwie językowym pewne błedy językowe są zupełnie ignorowane lub wręcz językoznawcy z zniechęceniem machają ręką i mówią, można już tak mówić i pisać. Ponieważ jednak praca dyplomowa jest niejako pewną wizytówką oraz wymagany jest język formalny, warto poniższe zasady stosować.
+W codziennej komunikacji wiele błędów językowych bywa tolerowanych, jednak praca dyplomowa powinna zachowywać bardziej staranną normę językową.
 
-#### ilość kontra liczba
-ilość używamy do wielkości niepoliczalnych, np duża ilość wody.
-liczba używamy do wielkości policzalnych np duża liczba wejść sterownika, duża liczba punktów.
+#### _"Ilość"_ kontra _"liczba"_
 
-#### stwarzać
-Słowo "stwarzać" odnosi się do uczynienia czegoś z niczego. Dlatego nie bez powodu odnosi się do Boga, który "Stworzył świat z niczego". Człowiek generalnie nie "stwarza". Można podać parę przykładów, w których słowo "stwarzać" moglibyśmy odnieść do człowieka, ale generalnie słowo to jest nagminnie naduzywane. Człowiek buduje, wytwarza, przetwarza, konstruuje, pisze (program komputerowy), wymyśla (idee).
+- _"ilość"_ odnosi się do wielkości niepoliczalnych, np. _"duża ilość wody"_,
+- _"liczba"_ odnosi się do wielkości policzalnych, np. _"duża liczba wejść sterownika"_, _"duża liczba punktów pomiarowych"_.
 
-#### Aby itp
-Generalnie nie powinno się rozpoczynać zdania od "Aby".
-Przykład: Zdanie "Aby zasilić urządzenie należy podłączyć wtyczkę do gniazdka" należałoby zastąpić zdaniem "W celu zasilenia urządzenia należy podłączyć wtyczkę do gniazdka".
+#### _"Stwarzać"_
+
+Słowo "stwarzać" oznacza tworzenie czegoś z niczego, stąd jego tradycyjne powiązanie z opisem aktu stworzenia świata.  
+W odniesieniu do działań człowieka zaleca się stosowanie czasowników bardziej precyzyjnych, takich jak:
+
+- _"budować"_,
+- _"wytwarzać"_,
+- _"konstruować"_,
+- _"projektować"_,
+- _"tworzyć"_,
+- _"przetwarzać"_,
+- _"opracowywać"_.
+
+#### "Aby" i podobne
+
+Zasadniczo nie zaleca się rozpoczynania zdań od słowa "Aby".  
+
+> **Przykład**
+> Zamiast zdania:  
+> _"Aby zasilić urządzenie, należy podłączyć wtyczkę do gniazdka"_  
+> zaleca się zapis:  
+> _"W celu zasilenia urządzenia należy podłączyć wtyczkę do gniazdka"_.
