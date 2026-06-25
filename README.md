@@ -48,7 +48,7 @@ W przypadku korzystania z narzędzi AI należy:
 - wskazać, które fragmenty pracy były opracowywane z wykorzystaniem AI, jeżeli wymagają tego obowiązujące zasady wydziałowe lub uczelniane.
 
 > **Uwaga**  
-> Po złożeniu pracy w systemie (np. moja.pg) należy wymienić wszystkie sekcje, w których korzystano z AI, oraz opisać stopień ingerencji narzędzia.
+> Po złożeniu pracy w systemie (moja.pg) należy wymienić wszystkie sekcje, w których korzystano z AI, oraz opisać stopień ingerencji narzędzia w finalną treść.
 
 Nie należy powierzać narzędziom AI tworzenia całych rozdziałów lub całości pracy.  
 Doświadczenie pokazuje, że teksty generowane automatycznie bardzo często wymagają gruntownej przeróbki, a ich jakość bywa niewystarczająca z punktu widzenia standardów pracy dyplomowej.
@@ -103,7 +103,11 @@ Szybkie przesłanie pracy nie gwarantuje zatem szybszego zakończenia procesu re
 Realizacja pracy dyplomowej wymaga odpowiedniego rozplanowania działań w czasie.  
 Odkładanie zasadniczej części zadań na końcowy etap prac zazwyczaj utrudnia przygotowanie dopracowanego i spójnego opracowania.
 
-Z tego względu zaleca się, aby możliwie wcześnie rozpocząć działania związane z:
+Podczas planowania działań zasadne jest opracowanie szczegółowego harmonogramu, uwzględniającego przewidywany czas realizacji poszczególnych etapów pracy. 
+W praktyce często okazuje się jednak, że przyjęte uprzednio założenia nie znajdują pełnego odzwierciedlenia w rzeczywistości, co implikuje konieczność wprowadzenia korekt, nierzadko wymagających znacznych nakładów czasu. 
+Z tego względu nie rekomenduje się planowania działań w sposób maksymalnie skondensowany, lecz wskazane jest uwzględnienie rezerwy czasowej przeznaczonej na ewentualne modyfikacje i usprawnienia realizowanego projektu.
+
+Zaleca się zatem, aby możliwie wcześnie rozpocząć działania związane z:
 
 - budową lub uruchamianiem elementów stanowiska badawczego albo urządzenia,
 - implementacją i testowaniem oprogramowania,
@@ -111,6 +115,11 @@ Z tego względu zaleca się, aby możliwie wcześnie rozpocząć działania zwi�
 - przygotowywaniem kolejnych fragmentów tekstu pracy.
 
 Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku prac inżynierskich) na wykonanie przynajmniej części zadań, które mogą odciążyć późniejsze, bardziej intensywne etapy realizacji projektu.
+
+W przygotowywanym harmonogramie działań warto założyć, że ostatni miesiąc przed złożeniem pracy zostanie przeznaczony wyłącznie na jej pisanie. 
+Należy przy tym pamiętać, że sam proces korekty może zająć nawet dwa tygodnie, zwłaszcza jeśli obejmuje kilka etapów poprawek.
+Dodatkowo trzeba uwzględnić fakt, że w okresach zwiększonego obciążenia opiekuna większą liczbą prac dyplomowych czas oczekiwania na sprawdzenie tekstu może się wydłużyć. 
+Z tego względu rozsądne planowanie powinno obejmować również zapas czasowy na konsultacje i ewentualne poprawki.
 
 ## 6. Proponowana struktura pracy
 
@@ -126,7 +135,7 @@ Poniżej przedstawiono przykładową kolejność pisania poszczególnych częśc
 ### 6.1 Strona tytułowa
 
 Praca inżynierska rozpoczyna się od strony tytułowej, którą należy pobrać z odpowiedniej strony wydziałowej lub uczelnianej.  
-Na stronie tytułowej stosowane jest określenie "Projekt dyplomowy inżynierski".
+Na stronie tytułowej stosowane jest określenie _"Projekt dyplomowy inżynierski".
 
 ### 6.2 Abstrakt
 
@@ -135,7 +144,7 @@ Celem abstraktu jest przedstawienie treści pracy w taki sposób, aby możliwe b
 
 W abstrakcie:
 
-- nie należy opisywać zawartości poszczególnych rozdziałów ("W rozdziale drugim opisano...", "Rozdział trzeci zawiera..."),
+- nie należy opisywać zawartości poszczególnych rozdziałów  tzn. _"W rozdziale drugim opisano...", _"Rozdział trzeci zawiera...",
 - nie należy umieszczać nadmiernie szczegółowych informacji technicznych dotyczących urządzenia czy oprogramowania, chyba że informacje te są kluczowe dla zrozumienia tematu.
 
 > **Przykład:**
@@ -221,7 +230,7 @@ Podrozdział zawiera jasne, zwięzłe sformułowanie celu pracy, w postaci krót
 #### Podrozdział 1.2 Założenia projektowe
 
 W tym podrozdziale opisuje się założenia przyjęte podczas formułowania celu pracy.  
-W przypadku niewielkiej objętości tekstu dopuszczalne jest połączenie podrozdziałów "Cel pracy" i "Założenia projektowe".
+W przypadku niewielkiej objętości tekstu dopuszczalne jest połączenie podrozdziałów _"Cel pracy"_ i _"Założenia projektowe".
 
 Założenia projektowe mogą dotyczyć w szczególności:
 
@@ -272,7 +281,7 @@ Praca powinna tworzyć uporządkowaną całość o czytelnej strukturze:
 - rozwinięcie,
 - zakończenie.
 
-Struktura pracy nie powinna przypominać utworu fabularnego, w którym kluczowe informacje pojawiają się dopiero na końcu. 
+Struktura pracy nie powinna przypominać utworu fabularnego, w którym kluczowe informacje pojawiają się dopiero na końcu (np. kryminał). 
 Należy dążyć do ograniczenia liczby odwołań do treści umieszczonych w późniejszych rozdziałach.
 
 W miarę możliwości należy:
@@ -292,7 +301,7 @@ W miarę możliwości należy:
 
 W wielu przypadkach opis algorytmów sterowania i oprogramowania jest umieszczany w jednym rozdziale.  
 Ostateczny układ rozdziałów powinien być dostosowany do specyfiki tematu, a tytuły rozdziałów dobierane indywidualnie.  
-Ostatni rozdział może nosić tytuł "Podsumowanie" lub "Wyniki i dyskusja" i powinien zawierać:
+Ostatni rozdział może nosić tytuł _"Podsumowanie"_ lub _"Wyniki i dyskusja"_ i powinien zawierać:
 
 - podsumowanie osiągniętych rezultatów,
 - wskazanie elementów niezrealizowanych oraz przyczyn ich niewykonania,
@@ -358,10 +367,10 @@ W szczególności należy:
 
 - unikać skrótów myślowych i niedomówień,
 - dbać o poprawność gramatyczną i stylistyczną,
-- unikać języka przesadnie "poetyckiego".
+- unikać języka przesadnie _"poetyckiego".
 
 > **Przykład zdania niejednoznacznego:**  
-> _"Żmija ukąsiła Kleopatrę i umarła."_ - nie wiadomo, do którego podmiotu odnosi się orzeczenie "umarła".
+> _"Żmija ukąsiła Kleopatrę i umarła."_ - nie wiadomo, do którego podmiotu odnosi się orzeczenie _"umarła".
 
 Dopuszczalne jest stosowanie zdań wielokrotnie złożonych, jednak w przypadku trudności składniowych zaleca się używanie zdań prostszych.  
 Długie zdania z wieloma wtrąceniami utrudniają zrozumienie tekstu, a ewentualne błędy składniowe dodatkowo komplikują odbiór.  
@@ -370,7 +379,7 @@ Celem powinno być ułatwienie lektury i jednoznaczne przekazanie treści, a nie
 W pracy należy unikać pierwszej osoby liczby pojedynczej i mnogiej.  
 
 > **Przykład:**  
-> Zamiast formy: "Wydrukowaliśmy obudowę robota na drukarce 3D"  należy stosować zapis: "Obudowa robota została wykonana w technologii druku 3D".
+> Zamiast formy: _"Wydrukowaliśmy obudowę robota na drukarce 3D"_  należy stosować zapis: _"Obudowa robota została wykonana w technologii druku 3D"_.
 
 Opis praw przyrody, algorytmów oraz ogólnych rozwiązań powinien być prowadzony w czasie teraźniejszym, ponieważ ich ważność nie jest związana z konkretnym momentem czasowym.  
 Czas przeszły powinien być stosowany przede wszystkim do opisu wykonanych działań, na przykład przebiegu eksperymentów.
@@ -380,10 +389,34 @@ Przy stosowaniu form bezosobowych należy zadbać o to, aby z tekstu jednoznaczn
 - co zostało wykonane przez autora pracy,
 - co wynika z wykorzystania gotowych rozwiązań sprzętowych, programistycznych lub bibliotecznych.
 
-### 7.2 Symbole
+W pracy należy unikać powtórzeń, czyli wielokrotnego używania tych samych słów lub konstrukcji w bliskim sąsiedztwie. 
+Tekst powinien być zróżnicowany językowo i płynny w odbiorze. 
+Wyjątek stanowią terminy specjalistyczne, których zastępowanie synonimami mogłoby prowadzić do nieprecyzyjności lub utrudniać zrozumienie treści.
+Przykładowo, w opisie dotyczącym różnych typów anten dopuszczalne jest powtarzanie słowa _"antena", jeśli wynika to z konieczności zachowania precyzji.
+
+### 7.2 Wypełniacze
+
+W pracy należy unikać sztucznego zwiększania jej objętości poprzez dodawanie treści nieistotnych, oczywistych lub ogólnie dostępnych (często bezrefleksyjnie przejmowanych z internetu). 
+Każdy fragment tekstu powinien mieć uzasadnienie merytoryczne i pozostawać w bezpośrednim związku z tematem pracy.
+
+Dobrym przykładem jest opis protokołu I2C. 
+Jeżeli celem pracy jest zaprojektowanie i implementacja niskopoziomowej obsługi tego protokołu (np. tworzenie ramek danych czy analiza komunikacji w języku C), wówczas szczegółowe omówienie jego działania - w tym struktury ramek, sposobu adresowania czy mechanizmów potwierdzania danych - jest uzasadnione. 
+Jeśli jednak protokół I2C jest wykorzystywany jedynie za pomocą gotowych bibliotek (np. w komunikacji między Raspberry Pi a Arduino), wystarczające jest krótkie wskazanie jego użycia, rodzaju przesyłanych danych oraz ewentualnie zastosowanej biblioteki. 
+W takim przypadku rozbudowany opis protokołu stanowi zbędny wypełniacz. 
+W zależności od kontekstu pracy zasadne może być natomiast opisanie własnej, wysokopoziomowej struktury przesyłanych danych.
+
+Innym przykładem wypełniaczy są nadmiarowe ilustracje, np. zdjęcia wszystkich wykorzystanych komponentów. 
+W pracy dotyczącej budowy urządzenia (np. platformy Stewarta) nie ma potrzeby prezentowania osobnych zdjęć każdego elementu, takiego jak Raspberry Pi, stabilizator napięcia czy sterownik silników. 
+Wystarczające jest przedstawienie schematu elektrycznego oraz zdjęć gotowego urządzenia. 
+W przypadku projektowania płytki PCB warto zamieścić jej projekt, natomiast nie ma konieczności prezentowania kolejnych etapów montażu.
+
+Jeżeli pewne materiały nie są bezpośrednio omawiane w treści pracy, można je przenieść do dodatków (aneksów).
+Dotyczy to na przykład schematów elektrycznych czy projektów PCB, do których nie odwołujemy się szczegółowo w tekście. W takiej sytuacji w głównej części pracy należy jedynie wskazać, gdzie dany materiał się znajduje.
+
+### 7.3 Symbole
 
 We wzorach matematycznych nie należy używać nazw pochodzących bezpośrednio z kodu programu.  
-Symbol typu "indeks" mógłby zostać potraktowany jako iloczyn liter "i", "n", "d", "e", "k", "s".  
+Symbol typu _"indeks"_ mógłby zostać potraktowany jako iloczyn liter _"i", _"n", _"d", _"e", _"k", _"s".  
 W pracy powinny być stosowane symbole jednoelementowe, to znaczy pojedyncze litery, ewentualnie uzupełnione indeksami.
 
 Należy przyjąć następujące zasady:
@@ -402,16 +435,42 @@ Jeżeli współrzędne tego samego punktu są wyrażane w różnych układach od
 > W przypadku LaTeX-a uzyskanie takiej spójności jest stosunkowo łatwe, ponieważ symbole na rysunkach mogą być generowane w taki sam sposób jak w tekście. 
 > W przypadku edytorów typu Word, w których rysunki są przygotowywane w osobnym programie, należy zadbać o możliwie najlepsze dopasowanie czcionek.
 
-### 7.3 Przecinki i zapis liczb
+### 7.4 Rysunki i tabele
+
+Rysunki i tabele powinny mieścić się w obrębie lewej i prawej linii wyrównania tekstu. 
+Rysunki należy wyrównywać do środka.
+
+Każdy rysunek powinien być opatrzony numerem oraz podpisem umieszczonym bezpośrednio pod nim. 
+W przypadku umieszczania obok siebie dwóch rysunków zaleca się zastosowanie jednego wspólnego podpisu oraz oznaczenie poszczególnych elementów jako _"a)"_ i _"b)", zamiast dodawania osobnych opisów do każdego z nich.
+
+Należy zachować odpowiedni odstęp między rysunkiem a tekstem. 
+Nie powinno się umieszczać rysunku bezpośrednio po tytule rozdziału lub podrozdziału.
+
+Rozmiar napisów na rysunkach i w tabelach powinien być możliwie zbliżony do rozmiaru czcionki używanej w tekście głównym pracy. 
+W praktyce nie zawsze jest możliwe pełne zachowanie zgodności (np. w przypadku rysunków pochodzących z zewnętrznych źródeł), jednak należy unikać sytuacji, w których napisy są wyraźnie mniejsze lub większe niż tekst pracy.
+
+W przypadku rysunków rastrowych należy zadbać o odpowiednią rozdzielczość, tak aby wszystkie elementy - w szczególności napisy i symbole - były czytelne i wyraźne. 
+Jeżeli rysunek nie jest fotografią, zaleca się stosowanie grafiki wektorowej.
+
+Każdy rysunek powinien być uzasadniony w treści pracy. 
+Oznacza to konieczność odniesienia się do niego w tekście oraz omówienia przedstawionych informacji. 
+Należy unikać wstawiania rysunków, które nie wnoszą istotnej wartości merytorycznej, np. przypadkowych zrzutów ekranu, które jedynie zwiększają objętość pracy.
+
+Wykresy powinny zawierać tytuł, opisy osi x i y, wartości liczbowe na osiach oraz jednostki miary uwzględnione w opisach.
+
+### 7.5 Przecinki i zapis liczb
 
 W pracy dyplomowej pisanej w języku polskim należy stosować polskie zasady zapisu liczb:
 
 - część całkowitą i ułamkową należy oddzielać przecinkiem (np. 3,14),
 - w nawiasach, przy dwóch liczbach ułamkowych, np. współrzędnych punktu, poszczególne liczby należy rozdzielać średnikiem.
 
+Powyższa zasada dotyczy nie tylko głównej części tekstu ale wszystkich miejsc w których występują liczby: wzory, tabele, rysunki i wykresy. 
+Wyjątkiem może być umieszczenie w pracy rysunku z źródła zewnętrznego, który nie uwzględnia zasad zapisu w języku polskim a jednocześnie _"polonizacja"_ rysunku byłaby niemożliwa lub naruszała integralność przytaczanego w pracy, zewnętrznego źródła. 
+
 Zasady te obowiązują również w materiałach prezentacyjnych.
 
-### 7.4 Wstawki angielskojęzyczne
+### 7.6 Wstawki angielskojęzyczne
 
 Ponieważ praca jest pisana w języku polskim, należy unikać niepotrzebnych wstawek z innych języków.  
 Wyjątki stanowią sytuacje, w których:
@@ -421,7 +480,80 @@ Wyjątki stanowią sytuacje, w których:
 
 Uwaga ta odnosi się również do języka prezentacji.
 
-### 7.5 Różne drobne uwagi
+### 7.7 Kod źródłowy programu
+
+W pracy nie umieszcza się listingów kodów źródłowych programu. Kody źródłowe wytworzone w ramach projektu inżynierskiego, wraz z innymi materiałami dodatkowymi, powinny zostać dołączone do pracy w postaci oddzielnego pliku .zip.
+
+Opracowany w ramach pracy algorytm lub rozwiązanie powinno zostać przedstawione w postaci:
+- wzorów matematycznych,
+- grafów,
+- schematów graficznych,
+- rysunków,
+- opisu słownego (forma dopuszczalna, jednak często najmniej czytelna).
+
+W opisie działania rozwiązania zaleca się stosowanie różnych technik jego prezentacji jednocześnie. 
+Ze względu na zróżnicowany charakter prac nie jest możliwe wskazanie jednego, uniwersalnego sposobu opisu opracowanego rozwiązania.
+
+Celem opisu powinno być przedstawienie istoty rozwiązania bez odwoływania się do konkretnej formy implementacji (np. kodu w danym języku programowania). 
+W związku z tym, o ile nie jest to bezwzględnie konieczne, nie powinny być podawane nazwy funkcji ani zmiennych wykorzystanych w programie. 
+Rozwiązanie, przynajmniej w jego warstwie koncepcyjnej lub matematycznej, powinno zostać opisane z wykorzystaniem symboliki matematycznej.
+
+W przypadku wykorzystania zewnętrznych bibliotek programistycznych (np. OpenCV) należy wskazać, z jakich bibliotek skorzystano oraz jaką funkcjonalność dzięki nim uzyskano. 
+Nie ma natomiast potrzeby podawania nazw funkcji ani klas.
+
+Powinna zostać podana informacja o środowisku programistycznym oraz języku, w którym opracowano program. 
+W pracach zawierających elementy konstrukcyjne zaleca się również wskazanie oprogramowania typu CAD wykorzystanego do zaprojektowania urządzenia lub jego części.
+
+Wyjątek od powyższych zasad stanowią prace, w których analiza kodu źródłowego jest istotą tematu. 
+W takich przypadkach odwoływanie się do kodu może być uzasadnione. 
+Niedopuszczalne jest natomiast zastępowanie opisu działania algorytmu fragmentami kodu jedynie w celu uniknięcia jego wyjaśnienia.
+
+### 7.8 Zwory i opis wzorów
+
+Wzory powinny być wyśrodkowane. Powinny być również numerowane, a w razie potrzeby należy odwoływać się do ich numerów w treści pracy.
+
+Jeżeli w danym wzorze po raz pierwszy pojawia się symbol, który nie został wcześniej zdefiniowany, powinien on zostać objaśniony. Wzór stanowi integralną część zdania, dlatego powinien być zakończony kropką lub przecinkiem, jeśli zdanie jest kontynuowane.
+
+Symbole występujące we wzorze mogą być objaśniane na dwa sposoby: jako kontynuacja zdania, bez naruszania jego struktury, lub w formie listy.
+
+> **Przykłady:**
+> 
+> Pierwszy sposób:
+>
+> ![](img/eq_ex1.png)
+>
+> ![](img/eq_ex2.png)
+
+> Drugi sposób:
+> 
+> ![](img/eq_ex3.png)
+
+
+Preferowany jest pierwszy sposób opisu symboli. 
+Definiowanie symboli wykorzystanych we wzorze nie musi być zakończone w tym samym zdaniu - może być kontynuowane w kolejnych zdaniach, jeżeli liczba symboli jest większa lub ich objaśnienie wymaga bardziej rozbudowanego opisu.
+
+Niezależnie od wybranego sposobu opisu symboli występujących we wzorach, najważniejsze jest zachowanie spójności w całej pracy. 
+W obrębie jednego opracowania powinien być stosowany jednolity sposób zapisu.
+Powtarzających się symboli nie trzeba ponownie definiować.
+
+### 7.9 Wyprowadzenia wzorów
+
+Zakres szczegółowości opisu wyprowadzeń wzorów powinien zostać skonsultowany z opiekunem pracy, ponieważ w tym zakresie mogą obowiązywać różne wymagania. 
+Zasadniczo nie ma potrzeby przedstawiania wszystkich elementarnych etapów przekształceń. 
+W wielu przypadkach wystarczające jest podanie założeń początkowych (np. równań lub praw, od których rozpoczyna się wyprowadzenie) oraz wyniku końcowego.
+
+Jeżeli konieczne jest dokładniejsze wyjaśnienie procesu prowadzącego do otrzymania wyniku, zaleca się przedstawienie rysunku poglądowego (lub kilku rysunków), zwłaszcza gdy wyprowadzenie dotyczy zależności geometrycznych. 
+Dodatkowo mogą zostać zaprezentowane najważniejsze etapy pośrednie, obejmujące kluczowe przekształcenia oraz zwięzły opis operacji wykonywanych pomiędzy kolejnymi krokami.
+
+> **Przykład:**
+> 
+> Rozważane jest położenie robota w globalnym układzie współrzędnych \((x,y,θ)\) oraz jego lokalny układ współrzędnych \((x′,y′)\). 
+> Dane jest również położenie punktu \(P\) w układzie globalnym. 
+> Celem jest wyznaczenie położenia punktu \(P\) w lokalnym układzie współrzędnych robota. 
+> W takim przypadku nie ma konieczności przedstawiania pełnego wyprowadzenia wzorów. 
+> Wystarczające jest zaprezentowanie rysunku sytuacyjnego zawierającego wszystkie istotne wielkości oraz podanie gotowego rozwiązania w postaci końcowych zależności matematycznych.
+
+### 7.10 Różne drobne uwagi
 
 W codziennej komunikacji wiele błędów językowych bywa tolerowanych, jednak praca dyplomowa powinna zachowywać bardziej staranną normę językową.
 
@@ -432,7 +564,7 @@ W codziennej komunikacji wiele błędów językowych bywa tolerowanych, jednak p
 
 #### _"Stwarzać"_
 
-Słowo "stwarzać" oznacza tworzenie czegoś z niczego, stąd jego tradycyjne powiązanie z opisem aktu stworzenia świata.  
+Słowo _"stwarzać"_ oznacza tworzenie czegoś z niczego, stąd jego tradycyjne powiązanie z opisem aktu stworzenia świata.  
 W odniesieniu do działań człowieka zaleca się stosowanie czasowników bardziej precyzyjnych, takich jak:
 
 - _"budować"_,
@@ -443,12 +575,89 @@ W odniesieniu do działań człowieka zaleca się stosowanie czasowników bardzi
 - _"przetwarzać"_,
 - _"opracowywać"_.
 
-#### "Aby" i podobne
+#### _"Aby"_ i podobne
 
-Zasadniczo nie zaleca się rozpoczynania zdań od słowa "Aby".  
+Zasadniczo nie zaleca się rozpoczynania zdań od słowa _"Aby"_.  
 
 > **Przykład**
 > Zamiast zdania:  
 > _"Aby zasilić urządzenie, należy podłączyć wtyczkę do gniazdka"_  
 > zaleca się zapis:  
 > _"W celu zasilenia urządzenia należy podłączyć wtyczkę do gniazdka"_.
+
+#### _"to"_, _"ten"_, _"tego"_, _"które"_
+
+W języku formalnym należy unikać nadużywania słów _"to"_, _"ten"_, _"tego"_, _"które"_ i podobnych zaimków. 
+Częste ich powtarzanie sprawia, że tekst staje się ciężki w odbiorze i mniej precyzyjny.
+
+> **Przykłady:**
+>
+> Zdania _"Paul jest to ramię robotyczne, które potrafi poruszać się w przestrzeni płaszczyzny"_ oraz _"Robot służy do rysowania osób, które siedzą przy nim"_ można zastąpić formami: _"Paul jest ramieniem robotycznym potrafiącym poruszać się w przestrzeni płaszczyzny"_ oraz _"Robot służy do rysowania osób siedzących przy nim"_.
+
+Słowa _"to"_ najlepiej w miarę możliwości unikać w tekstach naukowych. 
+Z kolei zaimek _"które"_ (oraz formy pokrewne) zaczyna razić, gdy pojawia się zbyt często, na przykład w co drugim lub trzecim zdaniu.
+
+#### _"położenie"_ kontra _"pozycja"
+
+Rozróżnienie pomiędzy prawidłowym i nieprawidłowym użyciem słów _"położenie"_ i _"pozycja"_ nie jest jednoznaczne, ponieważ zakresy znaczeniowe tych wyrazów w dużej mierze się pokrywają. 
+Warto jednak przyjąć praktyczną zasadę pomocną przy redagowaniu prac technicznych.
+
+Słowo _"położenie"_ będzie używane głównie w znaczeniu określenia miejsca w przestrzeni, które można opisać za pomocą współrzędnych, na przykład: położenie punktu na obrazie, położenie robota w układzie współrzędnych. 
+Z kolei _"pozycja"_ będzie stosowana wtedy, gdy opisujemy coś więcej niż tylko współrzędne, na przykład stan lub sposób usytuowania obiektu: pozycja leżąca, siedząca, stojąca, pozycja startowa.
+
+Można więc przyjąć, że jeżeli chcemy jedynie zaznaczyć miejsce obiektu w przestrzeni, używamy słowa _"położenie"_, natomiast gdy opisujemy jego stan, ułożenie lub rolę w pewnym kontekście, posługujemy się słowem _"pozycja"_. Należy przy tym pamiętać, że w literaturze fachowej oba terminy bywają stosowane w różny sposób, dlatego najważniejsze jest konsekwentne trzymanie się raz przyjętego rozróżnienia w całej pracy.
+
+#### Wyrównanie tekstu i wcięcia
+
+Główny tekst pracy powinien być wyrównany zarówno do lewej, jak i do prawej krawędzi. 
+Wcięcia akapitów w całej pracy powinny mieć jednakową głębokość. 
+Fragmenty tekstu zawierające listy mogą być dodatkowo nieznacznie przesunięte w prawo, przy czym należy zachować spójność stopnia tego wcięcia w całym dokumencie. 
+W listach zaleca się unikanie zbyt dużych odstępów pomiędzy kolejnymi pozycjami. 
+Bezwzględnie należy unikać sytuacji, w których fragment tekstu wychodzi poza ustalone lewe i prawe marginesy.
+
+#### Liczby z jednostkami
+
+Wartości liczbowe powinny być oddzielone od jednostek miary spacją, na przykład: 10 kg, 5 m, 3 s, a nie 10kg, 5m, 3s.
+
+#### Przeniesienia
+
+Należy zwracać uwagę, aby na końcu wiersza nie pozostawały pojedyncze, jednowyrazowe elementy rozpoczynające zdanie, takie jak _"W"_, _"Z"_ czy _"Do"_. 
+Przykładowo, w zdaniu _"W sterowniku zaimplementowano algorytm PID"_ wyraz _"W"_ nie powinien znajdować się sam na końcu linii, gdy dalsza część zdania została przeniesiona do kolejnego wiersza. 
+Należy również unikać rozdzielania między wierszami wartości liczbowych i przypisanych do nich jednostek. 
+W miarę możliwości nie powinno się także dzielić między linie treści umieszczonych w nawiasach, na przykład współrzędnych punktu typu _"O = (10,2; 4,2)"_.
+
+W TeX symbol _"~"_ jest interpretowany jako spacja nierozdzielająca, czyli taka, która zapobiega przeniesieniu połączonych elementów do kolejnego wiersza. Z tego względu może być on stosowany na przykład w zapisach typu _"10~kg"_ lub _"rys.~4.7"_.
+
+W przypadku liczb należy zwrócić uwagę na precyzję ich zapisu. 
+Liczba cyfr znaczących powinna być dostosowana do dokładności pomiarowej, tak aby nie sugerować większej precyzji, niż została rzeczywiście uzyskana.
+
+#### Rysunek
+
+Rysunkowi nie powinny być przypisywane czynności. 
+Oznacza to, że zdanie _"Rysunek 4.7 przedstawia uzyskane rezultaty"_ powinno zostać zastąpione formą bezosobową, na przykład: _"Na rysunku 4.7 przedstawiono uzyskane rezultaty"_.
+
+Jeżeli w tekście występuje bezpośrednie odniesienie do rysunku, nie należy używać skrótu _"rys."_. 
+Pełna forma słowa _"rysunek"_ powinna być stosowana wtedy, gdy odniesienie stanowi integralną część zdania. 
+Skrócona forma może zostać użyta wówczas, gdy odwołanie ma charakter wtrącenia, na przykład: _"Odpowiedź skokowa układu zamkniętego (rys. 4.7) charakteryzuje się przeregulowaniem 10 %"_.
+
+#### Odniesienia do literatury
+
+Jeżeli dany fragment tekstu odnosi się do konkretnej pozycji literatury, należy stosować nawiasy kwadratowe, na przykład: _"Jak zauważają Zhao i współautorzy [3]: «Tradycyjne drukarki XYZ doskonale radzą sobie z planarnym cięciem warstw, ...»"_.
+
+W przypadku jednoczesnego odwoływania się do kilku pozycji literaturowych powinien zostać zastosowany zapis typu: _"... ale napotykają ograniczenia podczas wytwarzania struktur niepoziomych, nawisów oraz części o złożonej geometrii [4][5][6], ..."_.
+
+Jeżeli cały akapit odnosi się do określonej pozycji literaturowej, odwołanie powinno zostać umieszczone na końcu akapitu, tak aby było jasne, że dotyczy ono całej jego treści, a nie wyłącznie ostatniego zdania.
+
+W wykazie literatury powinny zostać ujęte wyłącznie te pozycje, do których odwołano się w treści pracy.
+
+#### Unikanie pozornej _"sprawczości"_ przedmiotów
+
+W tekstach technicznych należy unikać sformułowań, w których przedmiotom lub elementom systemu przypisywana jest sprawczość, której faktycznie nie posiadają. 
+Prowadzi to do powstawania uproszczeń o absurdalnym lub nieprecyzyjnym znaczeniu, na przykład: _"przycisk wykonuje zdjęcie"_, _"przycisk generuje trajektorię"_ czy _"przycisk rozpoczyna komunikację z robotem"_.
+
+W takich sytuacjach zaleca się stosowanie form bezosobowych lub opisów, w których obiekt pełni jedynie rolę wyzwalacza działania. 
+Poprawne będą na przykład zdania: _"Po kliknięciu przycisku wykonywane jest zdjęcie"_, _"Naciśnięcie przycisku powoduje wygenerowanie trajektorii"_ lub _"Po wybraniu tej opcji rozpoczynana jest komunikacja z robotem"_.
+
+Zasada ta dotyczy nie tylko elementów interfejsu, lecz wszystkich opisów, w których istnieje pokusa przypisywania czynności rzeczom nieożywionym (np. _"wykres pokazuje"_, _"tabela mówi"_, _"rysunek tłumaczy"_). 
+W tekstach formalnych zaleca się formy typu: _"Na wykresie przedstawiono..."_, _"W tabeli zestawiono..."_, _"Na rysunku zaprezentowano..."_. 
+Dzięki temu opis pozostaje precyzyjny, logiczny i spójny stylistycznie.
