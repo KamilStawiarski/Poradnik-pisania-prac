@@ -286,6 +286,7 @@ Należy dążyć do ograniczenia liczby odwołań do treści umieszczonych w pó
 
 W miarę możliwości należy:
 
+- przygotować wszystkie odwołania (do wzorów, rysunków, tabel i źródeł) w formie hiperłączy,
 - unikać odwołań do rysunków, wzorów i tabel, które pojawiają się dopiero w kolejnych rozdziałach,
 - dopuszczać odwołania do elementów umieszczonych wcześniej.
 
@@ -315,7 +316,8 @@ W odniesieniu do bibliografii przyjmuje się, że:
 
 - dopuszczalnych jest kilka formatów zapisu pozycji,  
 - kluczowa jest spójność formatu w obrębie całej pracy,  
-- w LaTeX-u sposób prezentacji bibliografii jest zwykle określony przez zastosowany styl lub plik konfiguracyjny.
+- w LaTeX-u sposób prezentacji bibliografii jest zwykle określony przez zastosowany styl lub plik konfiguracyjny,
+- kiedy źródło posiada więcej niż 3 autorów można wymienić dane pierwszego autora z dopiskiem "et al." (łac. _et alteri_, i inni)
 
 W części literaturowej umieszczane są odniesienia do:
 
@@ -326,18 +328,57 @@ W części literaturowej umieszczane są odniesienia do:
 
 Opis pozycji bibliograficznej powinien zawierać w szczególności:
 
-- nazwisko (nazwiska) autora lub autorów,
-- tytuł,
-- nazwę wydawcy,
-- rok wydania,
-- nazwę konferencji (dla artykułów konferencyjnych),
-- zakres stron (w przypadku rozdziału w pracy zbiorowej).
+1. W przypadku książki:
 
-W przypadku odwołań do dokumentów udostępnianych wyłącznie w Internecie (np. dokumentacje techniczne, opracowania tematyczne, nierecenzowane artykuły) opis powinien obejmować:
+   - nazwisko (nazwiska) i inicjały autora lub autorów,
+   - tytuł (dużymi literami),
+   - nazwę wydawcy,
+   - rok wydania.
+> **Przykład:**
+> M. Niedźwiecki, _Identification of Time-Varying Processes_, Wiley & Sons, 2000.
+2. W przypadku rozdziału pracy zbiorowej:
 
-- krótki opis zawartości,
+   - nazwisko i inicjały autora rozdziału (jeśli jest),
+   - tytuł rozdziału (dużymi literami),
+   - tytuł pracy zbiorowej (również dużymi literami),
+   - inicjały i nazwisko (nazwiska) redaktora lub redaktorów,
+   - nazwę wydawcy,
+   - rok wydania.
+> **Przykład:**
+> A. J. Krener, _The Important State Coordinates of a Nonlinear System_, w: _Advances in Control Theory and Applications_, red. C. Bonivento et al., Springer, 2007.
+
+3. W przypadku artykułu naukowego:
+
+    - nazwisko i inicjały autorów,
+    - tytuł publikacji (tylko pierwszy wyraz i nazwy własne piszemy dużą literą),
+    - nazwę czasopisma lub konferencji,
+    - tom lub numer wydania,
+    - numery stron lub numer artykułu,
+    - rok pierwszego wydania,
+    - miejsce (dla materiałów konferencyjnych),
+    - numer doi (jeśli jest dostępny).
+> **Przykłady:**
+> 
+> S. Bennett, "Development of the PID controller," _IEEE Control Systems Magazine_, nr 13, ss. 58-62, 1993, doi: [10.1109/37.248006](https://doi.org/10.1109/37.248006).
+> 
+> D. Salvati, "Iterative high-order spherical harmonic diagonal-unloading beamforming for localizing direct sound and dominant reflections in reverberant rooms," _Signal Processing_, nr 249, nr artykułu 110774, 2026, doi: [10.1016/j.sigpro.2026.110774](https://doi.org/10.1016/j.sigpro.2026.110774)
+> 
+> A. Vaswani et al., "Attention is all you need,"_31st Conference on Neural Information Processing Systems (NIPS 2017)_, Long Beach, CA, USA, ss. 5998-6008, 2017. 
+
+4. Odniesienie do rozprawy doktorskiej konstruuje się tak jak odniesienie do książki, dodając informację o charakterze pracy i podając uczelnię zamiast wydawcy.
+
+> **Przykład:**
+> T. H. Eggen, _Underwater Acoustic Communication Over Doppler Spread Channels_, rozprawa doktorska, Massachusetts Institute of Technology, 1997.
+
+W przypadku odwołań do dokumentów udostępnianych wyłącznie w internecie (np. dokumentacje techniczne, opracowania tematyczne, nierecenzowane artykuły) opis powinien obejmować:
+
+- nazwisko i inicjały autora (jeśli jest podany)
+- krótki opis zawartości lub jej tytuł,
 - adres URL,
 - datę dostępu.
+
+> **Przykład:**
+> "Czym jest mechatronika: geneza, zastosowania, wyniki i szkolenie", online: https://www.tecnoloblog.com/pl/Czym-jest-mechatronika-Geneza--zastosowania--rezultaty-i-szkolenia/ [dostęp: 29.06.2026].
 
 Przed złożeniem pracy zaleca się weryfikację aktywności wszystkich linków oraz zgodności treści z opisem, a następnie aktualizację daty dostępu (np. na datę złożenia pracy).
 
@@ -508,7 +549,7 @@ Wyjątek od powyższych zasad stanowią prace, w których analiza kodu źródło
 W takich przypadkach odwoływanie się do kodu może być uzasadnione. 
 Niedopuszczalne jest natomiast zastępowanie opisu działania algorytmu fragmentami kodu jedynie w celu uniknięcia jego wyjaśnienia.
 
-### 7.8 Zwory i opis wzorów
+### 7.8 Wzory i opis wzorów
 
 Wzory powinny być wyśrodkowane. Powinny być również numerowane, a w razie potrzeby należy odwoływać się do ich numerów w treści pracy.
 
