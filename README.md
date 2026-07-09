@@ -135,7 +135,7 @@ Poniżej przedstawiono przykładową kolejność pisania poszczególnych częśc
 ### 6.1 Strona tytułowa
 
 Praca inżynierska rozpoczyna się od strony tytułowej, którą należy pobrać z odpowiedniej strony wydziałowej lub uczelnianej.  
-Na stronie tytułowej stosowane jest określenie _"Projekt dyplomowy inżynierski".
+Na stronie tytułowej stosowane jest określenie _"Projekt dyplomowy inżynierski"_.
 
 ### 6.2 Abstrakt
 
@@ -144,7 +144,7 @@ Celem abstraktu jest przedstawienie treści pracy w taki sposób, aby możliwe b
 
 W abstrakcie:
 
-- nie należy opisywać zawartości poszczególnych rozdziałów  tzn. _"W rozdziale drugim opisano...", _"Rozdział trzeci zawiera...",
+- nie należy opisywać zawartości poszczególnych rozdziałów  tzn. _"W rozdziale drugim opisano..."_, _"Rozdział trzeci zawiera..."_,
 - nie należy umieszczać nadmiernie szczegółowych informacji technicznych dotyczących urządzenia czy oprogramowania, chyba że informacje te są kluczowe dla zrozumienia tematu.
 
 > **Przykład:**
@@ -230,7 +230,7 @@ Podrozdział zawiera jasne, zwięzłe sformułowanie celu pracy, w postaci krót
 #### Podrozdział 1.2 Założenia projektowe
 
 W tym podrozdziale opisuje się założenia przyjęte podczas formułowania celu pracy.  
-W przypadku niewielkiej objętości tekstu dopuszczalne jest połączenie podrozdziałów _"Cel pracy"_ i _"Założenia projektowe".
+W przypadku niewielkiej objętości tekstu dopuszczalne jest połączenie podrozdziałów _"Cel pracy"_ i _"Założenia projektowe"_.
 
 Założenia projektowe mogą dotyczyć w szczególności:
 
@@ -250,8 +250,8 @@ Formalnie dopuszczalne jest wykorzystanie formy listy, jednak zalecane jest zast
 
 Podrozdział 1.4 zawiera streszczenie struktury pracy w postaci krótkiego przeglądu kolejnych rozdziałów, na przykład:
 
-- _"W rozdziale drugim przedstawiono ..."_
-- _"Rozdział trzeci zawiera ..."_
+- _"W rozdziale drugim przedstawiono ..."_,
+- _"Rozdział trzeci zawiera ..."_,
 - _"Uzyskane wyniki opisano w rozdziale szóstym"_.
 
 ### 6.6 Rozdział drugi: Część literaturowa
@@ -317,7 +317,7 @@ W odniesieniu do bibliografii przyjmuje się, że:
 - dopuszczalnych jest kilka formatów zapisu pozycji,  
 - kluczowa jest spójność formatu w obrębie całej pracy,  
 - w LaTeX-u sposób prezentacji bibliografii jest zwykle określony przez zastosowany styl lub plik konfiguracyjny,
-- kiedy źródło posiada więcej niż 3 autorów można wymienić dane pierwszego autora z dopiskiem "et al." (łac. _et alteri_, i inni)
+- kiedy źródło posiada więcej niż 3 autorów można wymienić dane pierwszego autora z dopiskiem _"et al."_ (łac. _et alteri_, i inni)
 
 W części literaturowej umieszczane są odniesienia do:
 
@@ -408,10 +408,10 @@ W szczególności należy:
 
 - unikać skrótów myślowych i niedomówień,
 - dbać o poprawność gramatyczną i stylistyczną,
-- unikać języka przesadnie _"poetyckiego".
+- unikać języka przesadnie _"poetyckiego"_.
 
 > **Przykład zdania niejednoznacznego:**  
-> _"Żmija ukąsiła Kleopatrę i umarła."_ - nie wiadomo, do którego podmiotu odnosi się orzeczenie _"umarła".
+> _"Żmija ukąsiła Kleopatrę i umarła."_ - nie wiadomo, do którego podmiotu odnosi się orzeczenie _"umarła"_.
 
 Dopuszczalne jest stosowanie zdań wielokrotnie złożonych, jednak w przypadku trudności składniowych zaleca się używanie zdań prostszych.  
 Długie zdania z wieloma wtrąceniami utrudniają zrozumienie tekstu, a ewentualne błędy składniowe dodatkowo komplikują odbiór.  
@@ -433,7 +433,7 @@ Przy stosowaniu form bezosobowych należy zadbać o to, aby z tekstu jednoznaczn
 W pracy należy unikać powtórzeń, czyli wielokrotnego używania tych samych słów lub konstrukcji w bliskim sąsiedztwie. 
 Tekst powinien być zróżnicowany językowo i płynny w odbiorze. 
 Wyjątek stanowią terminy specjalistyczne, których zastępowanie synonimami mogłoby prowadzić do nieprecyzyjności lub utrudniać zrozumienie treści.
-Przykładowo, w opisie dotyczącym różnych typów anten dopuszczalne jest powtarzanie słowa _"antena", jeśli wynika to z konieczności zachowania precyzji.
+Przykładowo, w opisie dotyczącym różnych typów anten dopuszczalne jest powtarzanie słowa _"antena"_, jeśli wynika to z konieczności zachowania precyzji.
 
 ### 7.2 Wypełniacze
 
@@ -457,7 +457,7 @@ Dotyczy to na przykład schematów elektrycznych czy projektów PCB, do których
 ### 7.3 Symbole
 
 We wzorach matematycznych nie należy używać nazw pochodzących bezpośrednio z kodu programu.  
-Symbol typu _"indeks"_ mógłby zostać potraktowany jako iloczyn liter _"i", _"n", _"d", _"e", _"k", _"s".  
+Symbol typu _"indeks"_ mógłby zostać potraktowany jako iloczyn liter _"i"_, _"n"_, _"d"_, _"e"_, _"k"_, _"s"_.  
 W pracy powinny być stosowane symbole jednoelementowe, to znaczy pojedyncze litery, ewentualnie uzupełnione indeksami.
 
 Należy przyjąć następujące zasady:
@@ -482,7 +482,7 @@ Rysunki i tabele powinny mieścić się w obrębie lewej i prawej linii wyrówna
 Rysunki należy wyrównywać do środka.
 
 Każdy rysunek powinien być opatrzony numerem oraz podpisem umieszczonym bezpośrednio pod nim. 
-W przypadku umieszczania obok siebie dwóch rysunków zaleca się zastosowanie jednego wspólnego podpisu oraz oznaczenie poszczególnych elementów jako _"a)"_ i _"b)", zamiast dodawania osobnych opisów do każdego z nich.
+W przypadku umieszczania obok siebie dwóch rysunków zaleca się zastosowanie jednego wspólnego podpisu oraz oznaczenie poszczególnych elementów jako _"a)"_ i _"b)"_, zamiast dodawania osobnych opisów do każdego z nich.
 
 Należy zachować odpowiedni odstęp między rysunkiem a tekstem. 
 Nie powinno się umieszczać rysunku bezpośrednio po tytule rozdziału lub podrozdziału.
@@ -638,7 +638,7 @@ Częste ich powtarzanie sprawia, że tekst staje się ciężki w odbiorze i mnie
 Słowa _"to"_ najlepiej w miarę możliwości unikać w tekstach naukowych. 
 Z kolei zaimek _"które"_ (oraz formy pokrewne) zaczyna razić, gdy pojawia się zbyt często, na przykład w co drugim lub trzecim zdaniu.
 
-#### _"położenie"_ kontra _"pozycja"
+#### _"położenie"_ kontra _"pozycja"_
 
 Rozróżnienie pomiędzy prawidłowym i nieprawidłowym użyciem słów _"położenie"_ i _"pozycja"_ nie jest jednoznaczne, ponieważ zakresy znaczeniowe tych wyrazów w dużej mierze się pokrywają. 
 Warto jednak przyjąć praktyczną zasadę pomocną przy redagowaniu prac technicznych.
