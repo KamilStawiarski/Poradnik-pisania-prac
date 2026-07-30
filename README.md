@@ -1,7 +1,21 @@
 # Wytyczne dotyczące realizacji prac inżynierskich i magisterskich
 
-Niniejszy dokument porządkuje podstawowe wymagania organizacyjne oraz najważniejsze zalecenia związane z przygotowaniem pracy dyplomowej.  
+**Wersja:** 2 (lipiec 2026)  
+**Status:** dokument uzupełniający — nie zastępuje oficjalnych wytycznych wydziałowych.
+
+Oficjalne wytyczne dla autorów prac dyplomowych są dostępne na [stronie wydziału ETI](https://eti.pg.edu.pl/studenci/dyplomy).  
+Niniejszy dokument porządkuje podstawowe wymagania organizacyjne oraz praktyczne zalecenia związane z przygotowaniem pracy dyplomowej. 
 Ma on charakter ogólny i może stanowić punkt odniesienia zarówno na etapie planowania pracy, jak i podczas jej późniejszej realizacji.
+
+## Spis treści
+
+1. [Zakres oczekiwań po 6./2. semestrze](#1-zakres-oczekiwań-po-62-semestrze)
+2. [Zasady przygotowywania tekstu pracy](#2-zasady-przygotowywania-tekstu-pracy)
+3. [Korzystanie z narzędzi AI](#3-korzystanie-z-narzędzi-ai)
+4. [Komunikacja i konsultacje](#4-komunikacja-i-konsultacje)
+5. [Planowanie czasu realizacji](#5-planowanie-czasu-realizacji)
+6. [Proponowana struktura pracy](#6-proponowana-struktura-pracy)
+7. [Zbiór uwag edytorskich](#7-zbiór-uwag-edytorskich)
 
 ## 1. Zakres oczekiwań po 6./2. semestrze
 
@@ -45,10 +59,10 @@ W przypadku korzystania z narzędzi AI należy:
 
 - zachować pełną kontrolę nad merytoryczną zawartością tekstu,
 - zweryfikować poprawność wszystkich informacji,
-- wskazać, które fragmenty pracy były opracowywane z wykorzystaniem AI, jeżeli wymagają tego obowiązujące zasady wydziałowe lub uczelniane.
+- wskazać, które fragmenty pracy były opracowywane z wykorzystaniem AI (wymóg wynikający z regulaminu składania prac oraz dobra praktyka niezależnie od indywidualnych ustaleń z opiekunem).
 
 > **Uwaga**  
-> Po złożeniu pracy w systemie (moja.pg) należy wymienić wszystkie sekcje, w których korzystano z AI, oraz opisać stopień ingerencji narzędzia w finalną treść.
+> Po złożeniu pracy w systemie (moja.pg) należy wymienić wszystkie sekcje, w których korzystano z AI, oraz opisać stopień ingerencji narzędzia w finalną treść. Obowiązek ten wynika z regulaminu uczelni; niezależnie od niego dokumentowanie użycia AI ułatwia ocenę merytoryczną pracy.
 
 Nie należy powierzać narzędziom AI tworzenia całych rozdziałów lub całości pracy.  
 Doświadczenie pokazuje, że teksty generowane automatycznie bardzo często wymagają gruntownej przeróbki, a ich jakość bywa niewystarczająca z punktu widzenia standardów pracy dyplomowej.
@@ -60,7 +74,7 @@ Doświadczenie pokazuje, że teksty generowane automatycznie bardzo często wyma
 > ✅ korekta stylistyczna i gramatyczna z kontrolą merytoryczności tekstu (np. wklejenie własnego tekstu z prośbą o wskazanie potencjalnych poprawek, krytyczna analiza sugerowanych zmian i ręczne wdrożenie)  
 > ✅ poszukiwanie potencjalnych źródeł cytowań (po wskazaniu przez AI powiązanego artykułu należy samodzielnie odnaleźć go w wiarygodnym serwisie, np. IEEE, zapoznać się z treścią i dopiero wtedy dodać cytowanie na podstawie oryginalnego źródła)  
 > ✅ wskazywanie niespójności w numeracji i odwołaniach oraz ręczna korekta po przeanalizowaniu sugestii  
-> ✅ w przypadku korzystania z plików `.tex` - generowanie szablonów tabel, ustawień pozycjonowania grafik, elementów składni LaTeX-a.
+> ✅ w przypadku korzystania z plików `.tex` — generowanie szablonów tabel, ustawień pozycjonowania grafik, elementów składni LaTeX-u
 
 > **Uwaga**  
 > Dobrą praktyką jest wykonywanie korekty językowej zdanie po zdaniu, z prośbą o wyświetlenie zdania przed korektą, po korekcie oraz krótkim opisem wprowadzonych zmian i ich uzasadnieniem. 
@@ -114,7 +128,7 @@ Zaleca się zatem, aby możliwie wcześnie rozpocząć działania związane z:
 - gromadzeniem materiałów źródłowych,
 - przygotowywaniem kolejnych fragmentów tekstu pracy.
 
-Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku prac inżynierskich) na wykonanie przynajmniej części zadań, które mogą odciążyć późniejsze, bardziej intensywne etapy realizacji projektu.
+Szczególnie korzystne jest wykorzystanie okresu wakacyjnego (w przypadku prac inżynierskich; przy pracach magisterskich — w okresach mniejszego obciążenia zajęciami) na wykonanie przynajmniej części zadań, które mogą odciążyć późniejsze, bardziej intensywne etapy realizacji projektu.
 
 W przygotowywanym harmonogramie działań warto założyć, że ostatni miesiąc przed złożeniem pracy zostanie przeznaczony wyłącznie na jej pisanie. 
 Należy przy tym pamiętać, że sam proces korekty może zająć nawet dwa tygodnie, zwłaszcza jeśli obejmuje kilka etapów poprawek.
@@ -123,19 +137,20 @@ Z tego względu rozsądne planowanie powinno obejmować również zapas czasowy 
 
 ## 6. Proponowana struktura pracy
 
-Poniżej przedstawiono przykładową kolejność pisania poszczególnych części pracy (propozycja, nie sztywny wymóg):
+Poniżej przedstawiono przykładową **kolejność pisania** poszczególnych części pracy (propozycja, nie sztywny wymóg).  
+Kolejność ta różni się od **ostatecznej struktury** dokumentu — w gotowej pracy rozdziały układa się chronologicznie (wstęp jako rozdział 1, abstrakt na początku itd.; por. przykład w sekcji 6.7).
 
-1. Rozdział 2 - część literaturowa,
-2. Rozdziały 3, 4, 5, ... - zasadnicza, merytoryczna część pracy,
-3. rozdział z wynikami,
-4. Rozdział 1 - wstęp i cel pracy,
-5. rozdział _"Podsumowanie"_,
-6. abstrakt.
+1. Rozdział 2 — przegląd literatury,
+2. Rozdziały 3, 4, 5, … — zasadnicza, merytoryczna część pracy,
+3. Rozdział z wynikami,
+4. Rozdział 1 — wstęp i cel pracy,
+5. Rozdział _„Podsumowanie”_,
+6. Abstrakt.
 
 ### 6.1 Strona tytułowa
 
-Praca inżynierska rozpoczyna się od strony tytułowej, którą należy pobrać z odpowiedniej strony wydziałowej lub uczelnianej.  
-Na stronie tytułowej stosowane jest określenie _"Projekt dyplomowy inżynierski"_.
+Praca dyplomowa rozpoczyna się od strony tytułowej, którą należy pobrać z odpowiedniej strony wydziałowej lub uczelnianej.  
+W pracy inżynierskiej na stronie tytułowej stosowane jest określenie _„Projekt dyplomowy inżynierski”_; w pracy magisterskiej — _„Praca magisterska”_ (zgodnie z obowiązującym wzorem wydziałowym).
 
 ### 6.2 Abstrakt
 
@@ -144,22 +159,19 @@ Celem abstraktu jest przedstawienie treści pracy w taki sposób, aby możliwe b
 
 W abstrakcie:
 
-- nie należy opisywać zawartości poszczególnych rozdziałów  tzn. _"W rozdziale drugim opisano..."_, _"Rozdział trzeci zawiera..."_,
+- nie należy opisywać zawartości poszczególnych rozdziałów, tzn. _„W rozdziale drugim opisano…”_, _„Rozdział trzeci zawiera…”_,
 - nie należy umieszczać nadmiernie szczegółowych informacji technicznych dotyczących urządzenia czy oprogramowania, chyba że informacje te są kluczowe dla zrozumienia tematu.
 
-> **Przykład:**
->  w pracy dotyczącej robota mobilnego z kamerą i lidarem, którego zadaniem jest samodzielna eksploracja terenu i budowa mapy otoczenia, w abstrakcie nie jest konieczne podawanie rodzaju mikrokomputera, typu baterii czy konkretnego modelu lidaru, chyba że ma to fundamentalne znaczenie dla treści pracy.
+> **Przykład:**  
+> W pracy dotyczącej robota mobilnego z kamerą i lidarem, którego zadaniem jest samodzielna eksploracja terenu i budowa mapy otoczenia, w abstrakcie nie jest konieczne podawanie rodzaju mikrokomputera, typu baterii czy konkretnego modelu lidaru, chyba że ma to fundamentalne znaczenie dla treści pracy.
 
-> **Przykładowy abstract**
-> W niniejszej pracy zaprezentowano projekt i konstrukcję robota zdolnego do układania kostki Rubika. 
-> Robot został wyposażony w precyzyjny mechanizm manipulacyjny oparty na serwomechanizmach, stacjonarny system wizyjny do rozpoznawania kolorów oraz algorytm planowania ruchów, co umożliwia skuteczne i dokładne układanie kostki. 
-> W pracy przedstawiono przegląd istniejących rozwiązań, kryteria wyboru oraz porównanie najczęściej wykorzystywanych algorytmów układania kostki. 
-> Zawarto szczegółowy opis zastosowanych komponentów i ich połączenia. 
-> Opisano własnoręcznie zaimplementowany algorytm planowania ruchów (układania kostki) oraz system sterowania. 
-> Opisano system sterowania napędami, bazujący na sygnałach sterujących w postaci sygnałów PWM. 
-> Przeprowadzone testy potwierdziły skuteczność robota w układaniu różnych konfiguracji kostki Rubika. 
-> Omówiono napotkane problemy techniczne, takie jak trudności w rozpoznawaniu kolorów przez kamerę oraz uzyskania wysokiej precyzji obrotów ścian kostki. 
-> Przedstawiono zastosowane rozwiązania, które pozwoliły na wyeliminowanie tych problemów i poprawę działania systemu. 
+> **Przykładowy abstrakt**  
+> W niniejszej pracy zaprezentowano projekt i konstrukcję robota zdolnego do układania kostki Rubika.  
+> Robot wyposażono w precyzyjny mechanizm manipulacyjny oparty na serwomechanizmach, stacjonarny system wizyjny do rozpoznawania kolorów oraz algorytm planowania ruchów, co umożliwia skuteczne i dokładne układanie kostki.  
+> Przedstawiono przegląd istniejących rozwiązań, kryteria wyboru oraz porównanie najczęściej wykorzystywanych algorytmów układania kostki.  
+> Szczegółowo omówiono zastosowane komponenty, ich połączenie, własnoręcznie zaimplementowany algorytm planowania ruchów oraz system sterowania napędami w oparciu o sygnały PWM.  
+> Przeprowadzone testy potwierdziły skuteczność robota w układaniu różnych konfiguracji kostki Rubika.  
+> Omówiono napotkane problemy techniczne, takie jak trudności w rozpoznawaniu kolorów przez kamerę oraz uzyskanie wysokiej precyzji obrotów ścian kostki, a także zastosowane rozwiązania pozwalające je wyeliminować.  
 > W wyniku prac zbudowano funkcjonalnego robota skutecznie układającego kostkę Rubika.
 
 ### 6.3 Spis treści
@@ -176,7 +188,7 @@ Należy unikać:
 - zbyt długich tytułów rozdziałów i podrozdziałów,
 - nadmiernej fragmentaryzacji pracy (wielu krótkich podrozdziałów na tej samej stronie).
 
-Prace inżynierskie zazwyczaj mają objętość ok. 50-80 stron.  
+Prace inżynierskie zazwyczaj mają objętość ok. 50–80 stron (prace magisterskie — zwykle więcej; szczegóły określa regulamin wydziałowy).  
 Przy zbyt dużej liczbie podrozdziałów drugiego poziomu może wystąpić sytuacja, w której kilka pozycji w spisie treści wskazuje tę samą stronę. 
 Nie należy zakładać nowego podrozdziału dla jednego krótkiego akapitu. 
 Za rozsądną zasadę przyjmuje się, że podrozdział nie powinien być krótszy niż jedna strona.
@@ -220,7 +232,7 @@ Zadaniem wprowadzenia jest przygotowanie czytelnika do zrozumienia celu pracy, o
 Jeżeli w sformułowaniu celu pojawiają się mniej oczywiste terminy techniczne, ich objaśnienia powinny zostać umieszczone we wprowadzeniu.
 
 Typowa długość wprowadzenia mieści się w przedziale od pół do jednej strony.  
-W uzasadnionych przypadkach objętość może zostać zwiększona (np. do 1,5-2 stron).  
+W uzasadnionych przypadkach objętość może zostać zwiększona (np. do 1,5–2 stron).  
 W tej części pracy nie umieszcza się ilustracji, zdjęć ani wykresów.
 
 #### Podrozdział 1.1 Cel pracy
@@ -254,7 +266,7 @@ Podrozdział 1.4 zawiera streszczenie struktury pracy w postaci krótkiego przeg
 - _"Rozdział trzeci zawiera ..."_,
 - _"Uzyskane wyniki opisano w rozdziale szóstym"_.
 
-### 6.6 Rozdział drugi: Część literaturowa
+### 6.6 Rozdział drugi: Przegląd literatury
 
 Tytuł rozdziału drugiego jest uzależniony od tematu pracy i zamierzonego zakresu treści. Możliwe są między innymi następujące sformułowania:
 
@@ -268,8 +280,8 @@ Rozdział ma na celu:
 - zaprezentowanie sposobów podejścia do podobnych problemów,
 - wskazanie miejsca projektowanego rozwiązania na tle istniejących opracowań.
 
-W pracach o bardziej teoretycznym charakterze część literaturowa może zawierać uporządkowanie i uzupełnienie wiedzy teoretycznej niezbędnej do zrozumienia dalszej części pracy.  
-Typowa objętość części literaturowej wynosi od kilku do kilkunastu stron; jest to rozdział uzupełniający, a nie zasadnicza część pracy.
+W pracach o bardziej teoretycznym charakterze rozdział ten może zawierać uporządkowanie i uzupełnienie wiedzy teoretycznej niezbędnej do zrozumienia dalszej części pracy.  
+Typowa objętość przeglądu literatury wynosi od kilku do kilkunastu stron; jest to rozdział uzupełniający, a nie zasadnicza część pracy.
 
 ### 6.7 Kolejne rozdziały pracy
 
@@ -290,9 +302,9 @@ W miarę możliwości należy:
 - unikać odwołań do rysunków, wzorów i tabel, które pojawiają się dopiero w kolejnych rozdziałach,
 - dopuszczać odwołania do elementów umieszczonych wcześniej.
 
-> **Przykładowy układ rozdziałów w pracy o charakterze sprzętowym (np. dotyczącej konstrukcji urządzenia) może wyglądać następująco:**  
+> **Przykładowy układ rozdziałów** w pracy o charakterze sprzętowym (np. dotyczącej konstrukcji urządzenia) — **ostateczna struktura** dokumentu, nie kolejność pisania:  
 > 1. Wstęp i cel pracy,  
-> 2. część literaturowa,  
+> 2. przegląd literatury,  
 > 3. konstrukcja mechaniczna,  
 > 4. układ elektroniczny,  
 > 5. algorytmy sterowania (w tym model matematyczny obiektu),  
@@ -308,18 +320,18 @@ Ostatni rozdział może nosić tytuł _"Podsumowanie"_ lub _"Wyniki i dyskusja"_
 - wskazanie elementów niezrealizowanych oraz przyczyn ich niewykonania,
 - możliwe kierunki dalszego rozwoju projektu.
 
-### 6.8 Część literaturowa (bibliografia), spis rysunków, spis tabel
+### 6.8 Bibliografia, spis rysunków, spis tabel
 
 W przypadku pisania pracy w LaTeX-u spis treści, bibliografia oraz spisy rysunków i tabel mogą być generowane automatycznie, co stanowi rozwiązanie zalecane ze względu na spójność i łatwość aktualizacji.
 
 W odniesieniu do bibliografii przyjmuje się, że:
 
-- dopuszczalnych jest kilka formatów zapisu pozycji,  
-- kluczowa jest spójność formatu w obrębie całej pracy,  
+- dopuszczalnych jest kilka formatów zapisu pozycji,
+- kluczowa jest spójność formatu w obrębie całej pracy,
 - w LaTeX-u sposób prezentacji bibliografii jest zwykle określony przez zastosowany styl lub plik konfiguracyjny,
-- kiedy źródło posiada więcej niż 3 autorów można wymienić dane pierwszego autora z dopiskiem _"et al."_ (łac. _et alteri_, i inni)
+- gdy źródło posiada więcej niż 3 autorów, można wymienić dane pierwszego autora z dopiskiem _„et al.”_ (łac. _et alii_, i inni).
 
-W części literaturowej umieszczane są odniesienia do:
+W bibliografii umieszczane są odniesienia do:
 
 - książek,
 - artykułów naukowych,
@@ -328,47 +340,50 @@ W części literaturowej umieszczane są odniesienia do:
 
 Opis pozycji bibliograficznej powinien zawierać w szczególności:
 
-1. W przypadku książki:
+**1. Książka**
 
-   - nazwisko (nazwiska) i inicjały autora lub autorów,
-   - tytuł (dużymi literami),
-   - nazwę wydawcy,
-   - rok wydania.
-> **Przykład:**
-> M. Niedźwiecki, _Identification of Time-Varying Processes_, Wiley & Sons, 2000.
-2. W przypadku rozdziału pracy zbiorowej:
+- nazwisko (nazwiska) i inicjały autora lub autorów,
+- tytuł (dużymi literami),
+- nazwę wydawcy,
+- rok wydania.
 
-   - nazwisko i inicjały autora rozdziału (jeśli jest),
-   - tytuł rozdziału (dużymi literami),
-   - tytuł pracy zbiorowej (również dużymi literami),
-   - inicjały i nazwisko (nazwiska) redaktora lub redaktorów,
-   - nazwę wydawcy,
-   - rok wydania.
-> **Przykład:**
-> A. J. Krener, _The Important State Coordinates of a Nonlinear System_, w: _Advances in Control Theory and Applications_, red. C. Bonivento et al., Springer, 2007.
+> **Przykład:** M. Niedźwiecki, _Identification of Time-Varying Processes_, Wiley & Sons, 2000.
 
-3. W przypadku artykułu naukowego:
+**2. Rozdział pracy zbiorowej**
 
-    - nazwisko i inicjały autorów,
-    - tytuł publikacji (tylko pierwszy wyraz i nazwy własne piszemy dużą literą),
-    - nazwę czasopisma lub konferencji,
-    - tom lub numer wydania,
-    - numery stron lub numer artykułu,
-    - rok pierwszego wydania,
-    - miejsce (dla materiałów konferencyjnych),
-    - numer doi (jeśli jest dostępny).
+- nazwisko i inicjały autora rozdziału (jeśli jest),
+- tytuł rozdziału (dużymi literami),
+- tytuł pracy zbiorowej (również dużymi literami),
+- inicjały i nazwisko (nazwiska) redaktora lub redaktorów,
+- nazwę wydawcy,
+- rok wydania.
+
+> **Przykład:** A. J. Krener, _The Important State Coordinates of a Nonlinear System_, w: _Advances in Control Theory and Applications_, red. C. Bonivento et al., Springer, 2007.
+
+**3. Artykuł naukowy**
+
+- nazwisko i inicjały autorów,
+- tytuł publikacji (tylko pierwszy wyraz i nazwy własne piszemy dużą literą),
+- nazwę czasopisma lub konferencji,
+- tom lub numer wydania,
+- numery stron lub numer artykułu,
+- rok pierwszego wydania,
+- miejsce (dla materiałów konferencyjnych),
+- numer doi (jeśli jest dostępny).
+
 > **Przykłady:**
-> 
-> S. Bennett, "Development of the PID controller," _IEEE Control Systems Magazine_, nr 13, ss. 58-62, 1993, doi: [10.1109/37.248006](https://doi.org/10.1109/37.248006).
-> 
+>
+> S. Bennett, "Development of the PID controller," _IEEE Control Systems Magazine_, nr 13, ss. 58–62, 1993, doi: [10.1109/37.248006](https://doi.org/10.1109/37.248006).
+>
 > D. Salvati, "Iterative high-order spherical harmonic diagonal-unloading beamforming for localizing direct sound and dominant reflections in reverberant rooms," _Signal Processing_, nr 249, nr artykułu 110774, 2026, doi: [10.1016/j.sigpro.2026.110774](https://doi.org/10.1016/j.sigpro.2026.110774)
-> 
-> A. Vaswani et al., "Attention is all you need,"_31st Conference on Neural Information Processing Systems (NIPS 2017)_, Long Beach, CA, USA, ss. 5998-6008, 2017. 
+>
+> A. Vaswani et al., "Attention is all you need," _31st Conference on Neural Information Processing Systems (NIPS 2017)_, Long Beach, CA, USA, ss. 5998–6008, 2017.
 
-4. Odniesienie do rozprawy doktorskiej konstruuje się tak jak odniesienie do książki, dodając informację o charakterze pracy i podając uczelnię zamiast wydawcy.
+**4. Rozprawa doktorska**
 
-> **Przykład:**
-> T. H. Eggen, _Underwater Acoustic Communication Over Doppler Spread Channels_, rozprawa doktorska, Massachusetts Institute of Technology, 1997.
+Odniesienie konstruuje się tak jak odniesienie do książki, dodając informację o charakterze pracy i podając uczelnię zamiast wydawcy.
+
+> **Przykład:** T. H. Eggen, _Underwater Acoustic Communication Over Doppler Spread Channels_, rozprawa doktorska, Massachusetts Institute of Technology, 1997.
 
 W przypadku odwołań do dokumentów udostępnianych wyłącznie w internecie (np. dokumentacje techniczne, opracowania tematyczne, nierecenzowane artykuły) opis powinien obejmować:
 
@@ -387,7 +402,7 @@ W przypadku wykorzystania rysunku lub zdjęcia pochodzącego z innej pracy lub s
 
 - w opisie rysunku należy umieścić odwołanie do pozycji w bibliografii lub przypis dolny zawierający krótki opis i adres URL (w sytuacji, w której dodanie pełnego wpisu bibliograficznego wyłącznie dla jednego rysunku byłoby niecelowe).
 
-W części literaturowej powinny znaleźć się wyłącznie odnośniki do źródeł:
+W części bibliograficznej powinny znaleźć się wyłącznie odnośniki do źródeł:
 
 - bezpiecznych,
 - wiarygodnych pod względem treści oraz trwałości.
@@ -399,7 +414,7 @@ W części literaturowej powinny znaleźć się wyłącznie odnośniki do źród
 
 ## 7. Zbiór uwag edytorskich
 
-Oficjalne wytyczne dla autorów prac są dostępne na [stronie wydziału](https://eti.pg.edu.pl/studenci/dyplomy).
+Poniższe wskazówki uzupełniają [oficjalne wytyczne wydziału ETI](https://eti.pg.edu.pl/studenci/dyplomy).
 
 ### 7.1 Język pracy
 
@@ -420,7 +435,7 @@ Celem powinno być ułatwienie lektury i jednoznaczne przekazanie treści, a nie
 W pracy należy unikać pierwszej osoby liczby pojedynczej i mnogiej.  
 
 > **Przykład:**  
-> Zamiast formy: _"Wydrukowaliśmy obudowę robota na drukarce 3D"_  należy stosować zapis: _"Obudowa robota została wykonana w technologii druku 3D"_.
+> Zamiast formy: _„Wydrukowaliśmy obudowę robota na drukarce 3D”_ należy stosować zapis: _„Obudowa robota została wykonana w technologii druku 3D”_.
 
 Opis praw przyrody, algorytmów oraz ogólnych rozwiązań powinien być prowadzony w czasie teraźniejszym, ponieważ ich ważność nie jest związana z konkretnym momentem czasowym.  
 Czas przeszły powinien być stosowany przede wszystkim do opisu wykonanych działań, na przykład przebiegu eksperymentów.
@@ -465,15 +480,15 @@ Należy przyjąć następujące zasady:
 - ten sam symbol nie powinien oznaczać w różnych miejscach pracy różnych wielkości,
 - w przypadku potrzeby rozróżnienia wielkości powiązanych należy stosować indeksy dolne lub górne, z zachowaniem ostrożności, aby nie powodowały one niejednoznaczności z zapisem potęg.
 
-> **Przykład:**  
-> - punkt na obrazie - symbol \(O\),  
-> - współrzędne punktu - \(O_x\), \(O_y\).
+> **Przykład:**
+> - punkt na obrazie — symbol `O`,
+> - współrzędne punktu — `O_x`, `O_y`.
 
-Jeżeli współrzędne tego samego punktu są wyrażane w różnych układach odniesienia, dopuszczalne jest użycie indeksów górnych, np. \(O^{A}\), \(O^{B}\).
+Jeżeli współrzędne tego samego punktu są wyrażane w różnych układach odniesienia, dopuszczalne jest użycie indeksów górnych, np. `O^A`, `O^B`.
 
-> **Bardzo ważne:**  
-> Symbole używane w tekście głównym, we wzorach, na rysunkach i w tabelach powinny wyglądać identycznie, to znaczy powinny mieć tę samą czcionkę, styl i rozmiar. 
-> W przypadku LaTeX-a uzyskanie takiej spójności jest stosunkowo łatwe, ponieważ symbole na rysunkach mogą być generowane w taki sam sposób jak w tekście. 
+> **Bardzo ważne:**
+> Symbole używane w tekście głównym, we wzorach, na rysunkach i w tabelach powinny wyglądać identycznie, to znaczy powinny mieć tę samą czcionkę, styl i rozmiar.
+> W przypadku LaTeX-u uzyskanie takiej spójności jest stosunkowo łatwe, ponieważ symbole na rysunkach mogą być generowane w taki sam sposób jak w tekście. 
 > W przypadku edytorów typu Word, w których rysunki są przygotowywane w osobnym programie, należy zadbać o możliwie najlepsze dopasowanie czcionek.
 
 ### 7.4 Rysunki i tabele
@@ -506,8 +521,8 @@ W pracy dyplomowej pisanej w języku polskim należy stosować polskie zasady za
 - część całkowitą i ułamkową należy oddzielać przecinkiem (np. 3,14),
 - w nawiasach, przy dwóch liczbach ułamkowych, np. współrzędnych punktu, poszczególne liczby należy rozdzielać średnikiem.
 
-Powyższa zasada dotyczy nie tylko głównej części tekstu ale wszystkich miejsc w których występują liczby: wzory, tabele, rysunki i wykresy. 
-Wyjątkiem może być umieszczenie w pracy rysunku z źródła zewnętrznego, który nie uwzględnia zasad zapisu w języku polskim a jednocześnie _"polonizacja"_ rysunku byłaby niemożliwa lub naruszała integralność przytaczanego w pracy, zewnętrznego źródła. 
+Powyższa zasada dotyczy nie tylko głównej części tekstu, ale wszystkich miejsc, w których występują liczby: wzory, tabele, rysunki i wykresy.
+Wyjątkiem może być umieszczenie w pracy rysunku z źródła zewnętrznego, który nie uwzględnia zasad zapisu w języku polskim, a jednocześnie _„polonizacja”_ rysunku byłaby niemożliwa lub naruszała integralność przytaczanego w pracy, zewnętrznego źródła. 
 
 Zasady te obowiązują również w materiałach prezentacyjnych.
 
@@ -523,7 +538,7 @@ Uwaga ta odnosi się również do języka prezentacji.
 
 ### 7.7 Kod źródłowy programu
 
-W pracy nie umieszcza się listingów kodów źródłowych programu. Kody źródłowe wytworzone w ramach projektu inżynierskiego, wraz z innymi materiałami dodatkowymi, powinny zostać dołączone do pracy w postaci oddzielnego pliku .zip.
+W pracy nie umieszcza się listingów kodów źródłowych programu. Kody źródłowe wytworzone w ramach pracy dyplomowej, wraz z innymi materiałami dodatkowymi, powinny zostać dołączone do pracy w postaci oddzielnego pliku `.zip`.
 
 Opracowany w ramach pracy algorytm lub rozwiązanie powinno zostać przedstawione w postaci:
 - wzorów matematycznych,
@@ -557,17 +572,39 @@ Jeżeli w danym wzorze po raz pierwszy pojawia się symbol, który nie został w
 
 Symbole występujące we wzorze mogą być objaśniane na dwa sposoby: jako kontynuacja zdania, bez naruszania jego struktury, lub w formie listy.
 
-> **Przykłady:**
-> 
-> Pierwszy sposób:
->
-> ![](img/eq_ex1.png)
->
-> ![](img/eq_ex2.png)
+**Przykłady**
 
-> Drugi sposób:
-> 
-> ![](img/eq_ex3.png)
+**Pierwszy sposób** — objaśnienie symboli w treści zdania (wzorzec LaTeX):
+
+```latex
+Prędkość obiektu wynosi
+\begin{equation}
+v = \frac{s}{t},
+\end{equation}
+gdzie $s$ oznacza drogę, a $t$ — czas.
+```
+
+```latex
+Moc silnika oblicza się ze wzoru
+\begin{equation}
+P = \frac{W}{t},
+\end{equation}
+gdzie $W$ to wykonana praca, a $t$ — czas jej wykonania.
+```
+
+**Drugi sposób** — objaśnienie symboli w formie listy pod wzorem (wzorzec LaTeX):
+
+```latex
+\begin{equation}
+F = m \cdot a
+\end{equation}
+gdzie:
+\begin{itemize}
+  \item $F$ — siła,
+  \item $m$ — masa,
+  \item $a$ — przyspieszenie.
+\end{itemize}
+```
 
 
 Preferowany jest pierwszy sposób opisu symboli. 
@@ -588,9 +625,9 @@ Dodatkowo mogą zostać zaprezentowane najważniejsze etapy pośrednie, obejmuj�
 
 > **Przykład:**
 > 
-> Rozważane jest położenie robota w globalnym układzie współrzędnych \((x,y,θ)\) oraz jego lokalny układ współrzędnych \((x′,y′)\). 
-> Dane jest również położenie punktu \(P\) w układzie globalnym. 
-> Celem jest wyznaczenie położenia punktu \(P\) w lokalnym układzie współrzędnych robota. 
+> Rozważane jest położenie robota w globalnym układzie współrzędnych (x, y, θ) oraz jego lokalny układ współrzędnych (x′, y′).
+> Dane jest również położenie punktu P w układzie globalnym.
+> Celem jest wyznaczenie położenia punktu P w lokalnym układzie współrzędnych robota. 
 > W takim przypadku nie ma konieczności przedstawiania pełnego wyprowadzenia wzorów. 
 > Wystarczające jest zaprezentowanie rysunku sytuacyjnego zawierającego wszystkie istotne wielkości oraz podanie gotowego rozwiązania w postaci końcowych zależności matematycznych.
 
@@ -667,7 +704,7 @@ Przykładowo, w zdaniu _"W sterowniku zaimplementowano algorytm PID"_ wyraz _"W"
 Należy również unikać rozdzielania między wierszami wartości liczbowych i przypisanych do nich jednostek. 
 W miarę możliwości nie powinno się także dzielić między linie treści umieszczonych w nawiasach, na przykład współrzędnych punktu typu _"O = (10,2; 4,2)"_.
 
-W TeX symbol _"~"_ jest interpretowany jako spacja nierozdzielająca, czyli taka, która zapobiega przeniesieniu połączonych elementów do kolejnego wiersza. Z tego względu może być on stosowany na przykład w zapisach typu _"10~kg"_ lub _"rys.~4.7"_.
+W LaTeX-u symbol `~` jest interpretowany jako spacja nierozdzielająca, czyli taka, która zapobiega przeniesieniu połączonych elementów do kolejnego wiersza. Z tego względu może być on stosowany na przykład w zapisach typu `10~kg` lub `rys.~4.7`.
 
 W przypadku liczb należy zwrócić uwagę na precyzję ich zapisu. 
 Liczba cyfr znaczących powinna być dostosowana do dokładności pomiarowej, tak aby nie sugerować większej precyzji, niż została rzeczywiście uzyskana.
