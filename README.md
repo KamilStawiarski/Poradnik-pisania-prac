@@ -481,10 +481,10 @@ Należy przyjąć następujące zasady:
 - w przypadku potrzeby rozróżnienia wielkości powiązanych należy stosować indeksy dolne lub górne, z zachowaniem ostrożności, aby nie powodowały one niejednoznaczności z zapisem potęg.
 
 > **Przykład:**  
-> - punkt na obrazie - symbol \(O\),  
-> - współrzędne punktu - \(O_x\), \(O_y\).
+> - punkt na obrazie - symbol $O$,  
+> - współrzędne punktu - $O_x$, $O_y$.
 
-Jeżeli współrzędne tego samego punktu są wyrażane w różnych układach odniesienia, dopuszczalne jest użycie indeksów górnych, np. \(O^{A}\), \(O^{B}\).
+Jeżeli współrzędne tego samego punktu są wyrażane w różnych układach odniesienia, dopuszczalne jest użycie indeksów górnych, np. $O^{A}$, $O^{B}$.
 
 > **Bardzo ważne:**
 > Symbole używane w tekście głównym, we wzorach, na rysunkach i w tabelach powinny wyglądać identycznie, to znaczy powinny mieć tę samą czcionkę, styl i rozmiar.
@@ -578,24 +578,24 @@ Symbole występujące we wzorze mogą być objaśniane na dwa sposoby: jako kont
 > 
 > Prędkość obiektu wynosi
 > 
-> \(v = \frac{s}{t}\),
+> $v = \frac{s}{t}$,
 > 
-> gdzie \(s\) oznacza drogę, a \(t\) — czas.
+> gdzie $s$ oznacza drogę, a $t$ — czas.
 > 
 > Moc silnika oblicza się ze wzoru
 > 
-> \(P = \frac{W}{t}\),
+> $P = \frac{W}{t}$,
 > 
-> gdzie \(W\) to wykonana praca, a \(t\) — czas jej wykonania.
+> gdzie $W$ to wykonana praca, a $t$ — czas jej wykonania.
 > 
 > **Drugi sposób** — objaśnienie symboli w formie listy pod wzorem:
 > 
-> \(F = m \cdot a\)
+> $F = m \cdot a$
 > 
 > gdzie:  
-> - \(F\) — siła,  
-> - \(m\) — masa,  
-> - \(a\) — przyspieszenie.
+> - $F$ — siła,  
+> - $m$ — masa,  
+> - $a$ — przyspieszenie.
 
 Preferowany jest pierwszy sposób opisu symboli. 
 Definiowanie symboli wykorzystanych we wzorze nie musi być zakończone w tym samym zdaniu - może być kontynuowane w kolejnych zdaniach, jeżeli liczba symboli jest większa lub ich objaśnienie wymaga bardziej rozbudowanego opisu.
@@ -615,9 +615,9 @@ Dodatkowo mogą zostać zaprezentowane najważniejsze etapy pośrednie, obejmuj�
 
 > **Przykład:**
 > 
-> Rozważane jest położenie robota w globalnym układzie współrzędnych \((x,y,θ)\) oraz jego lokalny układ współrzędnych \((x′,y′)\). 
-> Dane jest również położenie punktu \(P\) w układzie globalnym. 
-> Celem jest wyznaczenie położenia punktu \(P\) w lokalnym układzie współrzędnych robota. 
+> Rozważane jest położenie robota w globalnym układzie współrzędnych $(x,y,θ)$ oraz jego lokalny układ współrzędnych $(x′,y′)$. 
+> Dane jest również położenie punktu $P$ w układzie globalnym. 
+> Celem jest wyznaczenie położenia punktu $P$ w lokalnym układzie współrzędnych robota. 
 > W takim przypadku nie ma konieczności przedstawiania pełnego wyprowadzenia wzorów. 
 > Wystarczające jest zaprezentowanie rysunku sytuacyjnego zawierającego wszystkie istotne wielkości oraz podanie gotowego rozwiązania w postaci końcowych zależności matematycznych.
 
